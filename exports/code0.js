@@ -24,6 +24,14 @@ gdjs.title_32screenCode.GDtitleObjects1= [];
 gdjs.title_32screenCode.GDtitleObjects2= [];
 gdjs.title_32screenCode.GDMouseCursorObjects1= [];
 gdjs.title_32screenCode.GDMouseCursorObjects2= [];
+gdjs.title_32screenCode.GDwallObjects1= [];
+gdjs.title_32screenCode.GDwallObjects2= [];
+gdjs.title_32screenCode.GDgrasObjects1= [];
+gdjs.title_32screenCode.GDgrasObjects2= [];
+gdjs.title_32screenCode.GDgras_9595rowObjects1= [];
+gdjs.title_32screenCode.GDgras_9595rowObjects2= [];
+gdjs.title_32screenCode.GDwormObjects1= [];
+gdjs.title_32screenCode.GDwormObjects2= [];
 
 
 gdjs.title_32screenCode.mapOfGDgdjs_9546title_959532screenCode_9546GDMouseCursorObjects1Objects = Hashtable.newFrom({"MouseCursor": gdjs.title_32screenCode.GDMouseCursorObjects1});
@@ -40,7 +48,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12742236);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11968748);
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
@@ -87,6 +95,14 @@ gdjs.title_32screenCode.GDtitleObjects1.length = 0;
 gdjs.title_32screenCode.GDtitleObjects2.length = 0;
 gdjs.title_32screenCode.GDMouseCursorObjects1.length = 0;
 gdjs.title_32screenCode.GDMouseCursorObjects2.length = 0;
+gdjs.title_32screenCode.GDwallObjects1.length = 0;
+gdjs.title_32screenCode.GDwallObjects2.length = 0;
+gdjs.title_32screenCode.GDgrasObjects1.length = 0;
+gdjs.title_32screenCode.GDgrasObjects2.length = 0;
+gdjs.title_32screenCode.GDgras_9595rowObjects1.length = 0;
+gdjs.title_32screenCode.GDgras_9595rowObjects2.length = 0;
+gdjs.title_32screenCode.GDwormObjects1.length = 0;
+gdjs.title_32screenCode.GDwormObjects2.length = 0;
 
 gdjs.title_32screenCode.eventsList0(runtimeScene);
 gdjs.title_32screenCode.GDPlayButtonObjects1.length = 0;
@@ -113,6 +129,14 @@ gdjs.title_32screenCode.GDtitleObjects1.length = 0;
 gdjs.title_32screenCode.GDtitleObjects2.length = 0;
 gdjs.title_32screenCode.GDMouseCursorObjects1.length = 0;
 gdjs.title_32screenCode.GDMouseCursorObjects2.length = 0;
+gdjs.title_32screenCode.GDwallObjects1.length = 0;
+gdjs.title_32screenCode.GDwallObjects2.length = 0;
+gdjs.title_32screenCode.GDgrasObjects1.length = 0;
+gdjs.title_32screenCode.GDgrasObjects2.length = 0;
+gdjs.title_32screenCode.GDgras_9595rowObjects1.length = 0;
+gdjs.title_32screenCode.GDgras_9595rowObjects2.length = 0;
+gdjs.title_32screenCode.GDwormObjects1.length = 0;
+gdjs.title_32screenCode.GDwormObjects2.length = 0;
 
 
 return;
