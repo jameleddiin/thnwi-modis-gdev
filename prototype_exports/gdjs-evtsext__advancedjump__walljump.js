@@ -1220,7 +1220,7 @@ for (var i = 0, k = 0, l = gdjs.evtsExt__AdvancedJump__WallJump.WallJump.prototy
 gdjs.evtsExt__AdvancedJump__WallJump.WallJump.prototype.doStepPreEventsContext.GDObjectObjects1.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11652588);
+{isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(14779100);
 }
 }
 if (isConditionTrue_0) {

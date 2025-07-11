@@ -84,7 +84,7 @@ gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfiguration
 gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.onCreatedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.onCreatedContext.userFunc0x9c1d00 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.onCreatedContext.userFunc0xc54f58 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 const object = objects[0];
@@ -118,7 +118,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Advance
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.onCreatedContext.GDObjectObjects1);
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.onCreatedContext.userFunc0x9c1d00(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.onCreatedContext.userFunc0xc54f58(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -200,7 +200,7 @@ gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfiguration
 gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.RevertConfigurationContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.RevertConfigurationContext.userFunc0x992d90 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.RevertConfigurationContext.userFunc0xc56ad0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 const object = objects[0];
@@ -263,7 +263,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Advance
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.RevertConfigurationContext.GDObjectObjects1);
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.RevertConfigurationContext.userFunc0x992d90(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.RevertConfigurationContext.userFunc0xc56ad0(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -346,7 +346,7 @@ gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfiguration
 gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.UsualSettingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.UsualSettingContext.userFunc0x9c9670 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.UsualSettingContext.userFunc0xc54fe8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 const object = objects[0];
@@ -374,7 +374,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Advance
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.UsualSettingContext.GDObjectObjects1);
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.UsualSettingContext.userFunc0x9c9670(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.UsualSettingContext.userFunc0xc54fe8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -550,7 +550,7 @@ gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfiguration
 gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.ConfigureSettingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.ConfigureSettingContext.userFunc0x9bcb70 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.ConfigureSettingContext.userFunc0xa4afb8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 const object = objects[0];
@@ -592,7 +592,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Advance
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.ConfigureSettingContext.GDObjectObjects1);
-gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.ConfigureSettingContext.userFunc0x9bcb70(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__AdvancedJump__PlatformerConfigurationStack.PlatformerConfigurationStack.prototype.ConfigureSettingContext.userFunc0xa4afb8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
