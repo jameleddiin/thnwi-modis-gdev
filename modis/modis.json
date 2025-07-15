@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 231,
+    "build": 236,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -495,6 +495,17 @@
         "name": "assets\\Cable.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/DotGothic16-Regular2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -4827,6 +4838,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 244,
+          "keepRatio": true,
+          "layer": "descriptions",
+          "name": "ÜK_106_DB",
+          "persistentUuid": "047a7a79-47cf-425b-b02c-c9bb4315f2fa",
+          "width": 704,
+          "x": 7,
+          "y": 413,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -6671,6 +6699,100 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "ÜK_106_DB",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "AutoTyping",
+              "type": "AutoTyping::AutoTyping",
+              "Text": "Text",
+              "Interval": 0.05,
+              "CharacterJustAdded": false,
+              "FullText": "",
+              "TypedText": ""
+            }
+          ],
+          "string": "Verwaltung von Daten und Datenbanken\nSicherheit, Zugriffsberechtigung, Rollen, Usergruppen\nDBMS, DDL, DCL, SQL\nDB Schema, Konzept, Struktur und Migration\nJoins, Aggegierung, Tranaktion und ACID\nIndizies und Optimierung\n",
+          "font": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": true,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 5,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Verwaltung von Daten und Datenbanken\nSicherheit, Zugriffsberechtigung, Rollen, Usergruppen\nDBMS, DDL, DCL, SQL\nDB Schema, Konzept, Struktur und Migration\nJoins, Aggegierung, Tranaktion und ACID\nIndizies und Optimierung\n",
+            "font": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "center",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Module_117_Net",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "566a014b24b13d8f73118f13a7105778225c22c95127a8f1d5c3e996ff0768de_Ranchers-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": true,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 1,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "566a014b24b13d8f73118f13a7105778225c22c95127a8f1d5c3e996ff0768de_Ranchers-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -6714,6 +6836,12 @@
           },
           {
             "objectName": "throwableCable"
+          },
+          {
+            "objectName": "ÜK_106_DB"
+          },
+          {
+            "objectName": "Module_117_Net"
           }
         ]
       },
@@ -7757,6 +7885,55 @@
               "booleanParameters": {}
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "descriptions",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::AmbientLight",
+              "name": "3D Ammbient Light",
+              "doubleParameters": {
+                "intensity": 0.25
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Y-"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -7767,6 +7944,10 @@
         {
           "name": "Animation",
           "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "AutoTyping",
+          "type": "AutoTyping::AutoTyping"
         },
         {
           "name": "ButtonFSM",
@@ -8806,8 +8987,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Text capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "TextContainerCapability::TextContainerBehavior"
               ],
@@ -8818,18 +8997,12 @@
               "type": "Number",
               "unit": "Second",
               "label": "Time between characters",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "Interval"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Detect if a new text character was just displayed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CharacterJustAdded"
             },
@@ -8837,9 +9010,6 @@
               "value": "",
               "type": "String",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "FullText"
             },
@@ -8847,9 +9017,6 @@
               "value": "",
               "type": "String",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TypedText"
             }
@@ -9979,8 +10146,6 @@
               "type": "Boolean",
               "label": "",
               "description": "Should check hovering",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ShouldCheckHovering"
             },
@@ -9988,8 +10153,6 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Idle",
                 "Hovered",
@@ -10004,9 +10167,6 @@
               "value": "0",
               "type": "Number",
               "label": "Touch id",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -10014,9 +10174,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Touch is inside",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIsInside"
             },
@@ -10024,9 +10181,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Mouse is inside",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "MouseIsInside"
             },
@@ -10034,9 +10188,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Index"
             }
@@ -11529,16 +11680,12 @@
               "value": "0",
               "type": "Number",
               "label": "Label offset on Y axis when pressed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "PressedLabelOffsetY"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Left padding",
-              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -11549,7 +11696,6 @@
               "value": "0",
               "type": "Number",
               "label": "Right padding",
-              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -11560,7 +11706,6 @@
               "value": "0",
               "type": "Number",
               "label": "Top padding",
-              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -11571,7 +11716,6 @@
               "value": "0",
               "type": "Number",
               "label": "Bottom padding",
-              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -11582,9 +11726,6 @@
               "value": "0.25",
               "type": "Number",
               "label": "Hovered fade out duration (in seconds)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "HoveredFadeOutDuration"
             }
           ],
@@ -12720,8 +12861,6 @@
               "type": "Boolean",
               "label": "",
               "description": "Should check hovering",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ShouldCheckHovering"
             },
@@ -12729,8 +12868,6 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Idle",
                 "Hovered",
@@ -12745,9 +12882,6 @@
               "value": "0",
               "type": "Number",
               "label": "Touch id",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -12755,9 +12889,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Touch is inside",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIsInside"
             },
@@ -12765,9 +12896,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Mouse is inside",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "MouseIsInside"
             },
@@ -12775,9 +12903,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Index"
             }
@@ -13284,8 +13409,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -13295,8 +13418,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Effect capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
@@ -13306,9 +13427,7 @@
               "value": "",
               "type": "String",
               "label": "Idle state effect",
-              "description": "",
               "group": "Effects",
-              "extraInformation": [],
               "name": "IdleEffect"
             },
             {
@@ -13317,16 +13436,13 @@
               "label": "Focused state effect",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Effects",
-              "extraInformation": [],
               "name": "FocusedEffect"
             },
             {
               "value": "",
               "type": "String",
               "label": "Pressed state effect",
-              "description": "",
               "group": "Effects",
-              "extraInformation": [],
               "name": "PressedEffect"
             }
           ],
@@ -13741,8 +13857,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Animatable capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
@@ -13752,8 +13866,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -13763,9 +13875,7 @@
               "value": "Idle",
               "type": "String",
               "label": "Idle state animation name",
-              "description": "",
               "group": "Animation",
-              "extraInformation": [],
               "name": "IdleAnimationName"
             },
             {
@@ -13774,16 +13884,13 @@
               "label": "Focused state animation name",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Animation",
-              "extraInformation": [],
               "name": "FocusedAnimationName"
             },
             {
               "value": "Pressed",
               "type": "String",
               "label": "Pressed state animation name",
-              "description": "",
               "group": "Animation",
-              "extraInformation": [],
               "name": "PressedAnimationName"
             }
           ],
@@ -15152,8 +15259,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -15163,8 +15268,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Effect capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
@@ -15174,9 +15277,7 @@
               "value": "Effect",
               "type": "String",
               "label": "Effect name",
-              "description": "",
               "group": "Effect",
-              "extraInformation": [],
               "name": "EffectName"
             },
             {
@@ -15185,16 +15286,13 @@
               "label": "Effect parameter",
               "description": "The effect parameter names can be found in the effects tab with the \"Show parameter names\" action of the drop down menu.",
               "group": "Effect",
-              "extraInformation": [],
               "name": "EffectProperty"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Idle effect parameter value",
-              "description": "",
               "group": "Value",
-              "extraInformation": [],
               "name": "IdleValue"
             },
             {
@@ -15203,23 +15301,19 @@
               "label": "Focused effect parameter value",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Value",
-              "extraInformation": [],
               "name": "FocusedValue"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Pressed effect parameter value",
-              "description": "",
               "group": "Value",
-              "extraInformation": [],
               "name": "PressedValue"
             },
             {
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-in easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -15262,7 +15356,6 @@
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-out easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -15306,9 +15399,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-in duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "FadeInDuration"
             },
             {
@@ -15316,17 +15407,13 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-out duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "FadeOutDuration"
             },
             {
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Idle",
                 "Focused",
@@ -15339,9 +15426,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TweenInitialValue"
             },
@@ -15349,9 +15433,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TweenTargetedValue"
             },
@@ -15359,9 +15440,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TweenTime"
             },
@@ -15369,8 +15447,6 @@
               "value": "NoTween",
               "type": "Choice",
               "label": "",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "NoTween",
                 "FadeIn",
@@ -15383,9 +15459,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "EffectValue"
             }
@@ -16329,8 +16402,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Scalable capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
@@ -16340,8 +16411,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states behavior (required)",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -16351,8 +16420,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Tween behavior (required)",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
@@ -16363,9 +16430,7 @@
               "type": "Number",
               "unit": "Dimensionless",
               "label": "Idle state size scale",
-              "description": "",
               "group": "Size",
-              "extraInformation": [],
               "name": "IdleScale"
             },
             {
@@ -16375,7 +16440,6 @@
               "label": "Focused state size scale",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Size",
-              "extraInformation": [],
               "name": "FocusedScale"
             },
             {
@@ -16383,9 +16447,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-in duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "FadeInDuration"
             },
             {
@@ -16393,9 +16455,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-out duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "FadeOutDuration"
             },
             {
@@ -16403,16 +16463,13 @@
               "type": "Number",
               "unit": "Dimensionless",
               "label": "Pressed state size scale",
-              "description": "",
               "group": "Size",
-              "extraInformation": [],
               "name": "PressedScale"
             },
             {
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-in easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -16455,7 +16512,6 @@
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-out easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -16498,8 +16554,6 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Idle",
                 "Focused",
@@ -17462,8 +17516,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -17473,8 +17525,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Tween",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
@@ -17484,9 +17534,7 @@
               "value": "255;255;255",
               "type": "Color",
               "label": "Idle state color tint",
-              "description": "",
               "group": "Color",
-              "extraInformation": [],
               "name": "IdleColorTint"
             },
             {
@@ -17495,16 +17543,13 @@
               "label": "Focused state color tint",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Color",
-              "extraInformation": [],
               "name": "FocusedColorTint"
             },
             {
               "value": "64;64;64",
               "type": "Color",
               "label": "Pressed state color tint",
-              "description": "",
               "group": "Color",
-              "extraInformation": [],
               "name": "PressedColorTint"
             },
             {
@@ -17512,9 +17557,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-in duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "FadeInDuration"
             },
             {
@@ -17522,16 +17565,13 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-out duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "FadeOutDuration"
             },
             {
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-in easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -17574,7 +17614,6 @@
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-out easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -17617,8 +17656,6 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Idle",
                 "Focused",
@@ -20675,18 +20712,12 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "String",
               "label": "Joystick name",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "JoystickIdentifier"
             },
             {
@@ -20694,17 +20725,12 @@
               "type": "Number",
               "label": "Dead zone radius (range: 0 to 1)",
               "description": "The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved)",
-              "group": "",
-              "extraInformation": [],
               "name": "DeadZoneRadius"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Joystick angle (range: -180 to 180)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "JoystickAngle"
             },
@@ -20712,9 +20738,6 @@
               "value": "0",
               "type": "Number",
               "label": "Joystick force (range: 0 to 1)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "JoystickForce"
             },
@@ -20722,9 +20745,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -20732,9 +20752,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIndex"
             }
@@ -21131,27 +21148,18 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "A",
               "type": "String",
               "label": "Button identifier",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ButtonIdentifier"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "TouchID",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -21159,9 +21167,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIndex"
             },
@@ -21169,9 +21174,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Button released",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsReleased"
             },
@@ -21181,8 +21183,6 @@
               "unit": "Pixel",
               "label": "Triggering circle radius",
               "description": "This circle adds up to the object collision mask.",
-              "group": "",
-              "extraInformation": [],
               "name": "Radius"
             }
           ],
@@ -21371,8 +21371,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platform character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -21382,16 +21380,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -21403,9 +21397,7 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -21515,8 +21507,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -21526,16 +21516,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Walk joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -21547,9 +21533,7 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -21648,8 +21632,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -21659,16 +21641,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Walk joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -21680,9 +21658,7 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -22614,8 +22590,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Scene3D::Base3DBehavior"
               ],
@@ -22625,16 +22599,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Secondary",
               "type": "Choice",
               "label": "Camera joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -22647,27 +22617,21 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationSpeedMax"
             },
             {
               "value": "360",
               "type": "Number",
               "label": "Rotation acceleration",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationAcceleration"
             },
             {
               "value": "720",
               "type": "Number",
               "label": "Rotation deceleration",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationDeceleration"
             },
             {
@@ -22675,27 +22639,21 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationSpeedMax"
             },
             {
               "value": "240",
               "type": "Number",
               "label": "Rotation acceleration",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationAcceleration"
             },
             {
               "value": "480",
               "type": "Number",
               "label": "Rotation deceleration",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationDeceleration"
             },
             {
@@ -22703,9 +22661,7 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Minimum angle",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalAngleMin"
             },
             {
@@ -22713,9 +22669,7 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Maximum angle",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalAngleMax"
             },
             {
@@ -22723,9 +22677,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Z position offset",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "OffsetZ"
             },
             {
@@ -22733,9 +22685,6 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Z",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedZ"
             },
@@ -22744,9 +22693,6 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Y",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedY"
             }
@@ -22875,8 +22821,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics car",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCar3D"
               ],
@@ -22886,16 +22830,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Steer joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -22907,7 +22847,6 @@
               "value": "Secondary",
               "type": "Choice",
               "label": "Speed joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -22919,9 +22858,7 @@
               "value": "B",
               "type": "String",
               "label": "Hand brake button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "HandBrakeButton"
             }
           ],
@@ -23443,8 +23380,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Top-down movement behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "TopDownMovementBehavior::TopDownMovementBehavior"
               ],
@@ -23454,17 +23389,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Primary",
                 "Secondary"
@@ -23475,7 +23405,6 @@
               "value": "Analog",
               "type": "Choice",
               "label": "Stick mode",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Analog",
@@ -24723,17 +24652,12 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Primary",
                 "Secondary"
@@ -24745,8 +24669,6 @@
               "type": "Number",
               "label": "Dead zone radius (range: 0 to 1)",
               "description": "The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved)",
-              "group": "",
-              "extraInformation": [],
               "name": "DeadZoneRadius"
             },
             {
@@ -24754,7 +24676,6 @@
               "type": "String",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
               "extraInformation": [
                 "Thumb"
               ],
@@ -24766,8 +24687,6 @@
               "type": "Number",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ThumbAnchorTarget"
             },
@@ -24776,7 +24695,6 @@
               "type": "Boolean",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
               "extraInformation": [
                 "Thumb"
               ],
@@ -24788,8 +24706,6 @@
               "type": "String",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ParentOrigin"
             },
@@ -24797,9 +24713,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ShouldBeHiddenWhenReleased"
             }
@@ -26389,8 +26302,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -26401,18 +26312,14 @@
               "type": "Number",
               "unit": "Second",
               "label": "Coyote time duration",
-              "description": "",
               "group": "Coyote time",
-              "extraInformation": [],
               "name": "CoyoteTimeFrameDuration"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Can coyote jump",
-              "description": "",
               "group": "Coyote time",
-              "extraInformation": [],
               "hidden": true,
               "name": "CanCoyoteJump"
             },
@@ -26420,9 +26327,7 @@
               "value": "",
               "type": "Boolean",
               "label": "Was in the air",
-              "description": "",
               "group": "Coyote time",
-              "extraInformation": [],
               "hidden": true,
               "name": "WasInTheAir"
             },
@@ -26430,27 +26335,21 @@
               "value": "1",
               "type": "Number",
               "label": "Number of air jumps",
-              "description": "",
               "group": "Air jump",
-              "extraInformation": [],
               "name": "AirJumpCountMaximum"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Floor jumps count as air jumps",
-              "description": "",
               "group": "Air jump",
-              "extraInformation": [],
               "name": "AreFloorJumpCountedAsAirJump"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
               "group": "Air jump",
-              "extraInformation": [],
               "hidden": true,
               "name": "AirJumpCount"
             },
@@ -26458,9 +26357,7 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
               "group": "Air jump",
-              "extraInformation": [],
               "hidden": true,
               "name": "WasJumpKeyReleased"
             }
@@ -29072,8 +28969,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -29083,8 +28978,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character configuration stack",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "AdvancedJump::PlatformerConfigurationStack"
               ],
@@ -29095,9 +28988,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Jump detection time frame",
-              "description": "",
               "group": "Wall jump",
-              "extraInformation": [],
               "name": "JumpTimeFrame"
             },
             {
@@ -29105,9 +28996,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Side speed",
-              "description": "",
               "group": "Wall jump",
-              "extraInformation": [],
               "name": "WallJumpSpeedX"
             },
             {
@@ -29115,9 +29004,7 @@
               "type": "Number",
               "unit": "PixelAcceleration",
               "label": "Side acceleration",
-              "description": "",
               "group": "Wall jump",
-              "extraInformation": [],
               "name": "WallJumpAccelerationX"
             },
             {
@@ -29125,9 +29012,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Side speed sustain time",
-              "description": "",
               "group": "Wall jump",
-              "extraInformation": [],
               "name": "SideSpeedSustainTime"
             },
             {
@@ -29135,9 +29020,7 @@
               "type": "Number",
               "unit": "PixelAcceleration",
               "label": "Gravity",
-              "description": "",
               "group": "Wall sliding",
-              "extraInformation": [],
               "name": "WallSlidingGravity"
             },
             {
@@ -29145,9 +29028,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Maximum falling speed",
-              "description": "",
               "group": "Wall sliding",
-              "extraInformation": [],
               "name": "WallSlidingMaxFallingSpeed"
             },
             {
@@ -29155,9 +29036,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Impact speed absorption",
-              "description": "",
               "group": "Wall sliding",
-              "extraInformation": [],
               "name": "WallSlidingSpeedAbsorption"
             },
             {
@@ -29165,27 +29044,20 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Minimal falling speed",
-              "description": "",
               "group": "Wall sliding",
-              "extraInformation": [],
               "name": "WallSlidingFallingSpeedMin"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Keep sliding without holding a key",
-              "description": "",
               "group": "Wall sliding",
-              "extraInformation": [],
               "name": "AutomaticSliding"
             },
             {
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "PreviousX"
             },
@@ -29193,9 +29065,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsAgainstWall"
             },
@@ -29203,9 +29072,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "WasLeftOrRightPressed"
             },
@@ -29213,9 +29079,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsWallJumping"
             },
@@ -29223,9 +29086,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsJumpingLeft"
             },
@@ -29233,9 +29093,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "WasInTheAir"
             },
@@ -29243,9 +29100,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "HasJustWallJump"
             },
@@ -29253,9 +29107,6 @@
               "value": "true",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "MovedAwayFromTheWall"
             }
@@ -29584,8 +29435,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -29595,8 +29444,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character configuration stack",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "AdvancedJump::PlatformerConfigurationStack"
               ],
@@ -29607,9 +29454,6 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Maximum falling speed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DiveMaxFallingSpeed"
             },
             {
@@ -29617,9 +29461,6 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Initial falling speed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DiveInitialFallingSpeed"
             },
             {
@@ -29627,18 +29468,12 @@
               "type": "Number",
               "unit": "PixelAcceleration",
               "label": "Gravity",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DiveGravity"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsDiving"
             }
@@ -30713,8 +30548,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -30724,8 +30557,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer charcacter configuration stack",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "AdvancedJump::PlatformerConfigurationStack"
               ],
@@ -30735,90 +30566,65 @@
               "value": "500",
               "type": "Number",
               "label": "Initial speed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DashInitialSpeed"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Sustain minimum duration",
-              "description": "",
               "group": "Sustain",
-              "extraInformation": [],
               "name": "DashSustainDurationMin"
             },
             {
               "value": "0.25",
               "type": "Number",
               "label": "Sustain maxiumum duration",
-              "description": "",
               "group": "Sustain",
-              "extraInformation": [],
               "name": "DashSustainDurationMax"
             },
             {
               "value": "1500",
               "type": "Number",
               "label": "Sustain acceleration",
-              "description": "",
               "group": "Sustain",
-              "extraInformation": [],
               "name": "DashSustainAcceleration"
             },
             {
               "value": "750",
               "type": "Number",
               "label": "Sustain maxiumum speed",
-              "description": "",
               "group": "Sustain",
-              "extraInformation": [],
               "name": "DashSustainSpeedMax"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Sustain gravity",
-              "description": "",
               "group": "Sustain",
-              "extraInformation": [],
               "name": "DashSustainGravity"
             },
             {
               "value": "3000",
               "type": "Number",
               "label": "Decceleration",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DashDecceleration"
             },
             {
               "value": "1000",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DashGravity"
             },
             {
               "value": "0.25",
               "type": "Number",
               "label": "Cool down duration",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "CoolDownDuration"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "LastDirectionIsLeft"
             },
@@ -30826,9 +30632,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "DashKeyIsPressed"
             },
@@ -30836,9 +30639,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsSustainning"
             },
@@ -30846,9 +30646,6 @@
               "value": "true",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CanDash"
             }
@@ -31499,8 +31296,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -33211,8 +33006,6 @@
               "unit": "Second",
               "label": "Lifetime",
               "description": "Use \"0\" to ignore this property.",
-              "group": "",
-              "extraInformation": [],
               "name": "MaxLifetime"
             },
             {
@@ -33221,8 +33014,6 @@
               "unit": "Pixel",
               "label": "Max distance from starting position",
               "description": "Use \"0\" to ignore this property.",
-              "group": "",
-              "extraInformation": [],
               "name": "MaxDistanceFromStartingPosition"
             },
             {
@@ -33231,8 +33022,6 @@
               "unit": "PixelSpeed",
               "label": "Max speed",
               "description": "Speed from object forces will not exceed this value. Use \"0\" to ignore this property.",
-              "group": "",
-              "extraInformation": [],
               "name": "MaxSpeed"
             },
             {
@@ -33241,8 +33030,6 @@
               "unit": "PixelSpeed",
               "label": "",
               "description": "Speed from object forces will not go below this value. Use \"0\" to ignore this property.",
-              "group": "",
-              "extraInformation": [],
               "name": "MinSpeed"
             },
             {
@@ -33251,8 +33038,6 @@
               "unit": "PixelAcceleration",
               "label": "Acceleration",
               "description": "Negative acceleration can be used to stop a projectile.",
-              "group": "",
-              "extraInformation": [],
               "name": "Acceleration"
             },
             {
@@ -33261,26 +33046,18 @@
               "unit": "PixelSpeed",
               "label": "Starting speed",
               "description": "Object will move in the direction it is facing when it is created. Use \"0\" to ignore this property.",
-              "group": "",
-              "extraInformation": [],
               "name": "StartingSpeed"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Delete when lifetime is exceeded",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DeleteWhenLifetimeExceeded"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Delete when distance from starting position is exceeded",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "DeleteWhenDistanceExceeded"
             }
           ],
@@ -38025,17 +37802,12 @@
               "unit": "Second",
               "label": "Firing cooldown",
               "description": "Objects cannot shoot while firing cooldown is active.",
-              "group": "",
-              "extraInformation": [],
               "name": "FireCooldown"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "HasJustFired"
             },
@@ -38043,9 +37815,6 @@
               "value": "true",
               "type": "Boolean",
               "label": "Rotate bullets to match their trajectory",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "RotateBullet"
             },
             {
@@ -38055,7 +37824,6 @@
               "label": "Firing arc",
               "description": "Multi-Fire bullets will be evenly spaced inside the firing arc",
               "group": "Multi-Fire",
-              "extraInformation": [],
               "name": "FiringArc"
             },
             {
@@ -38064,7 +37832,6 @@
               "label": "Number of bullets created at once",
               "description": "Multi-Fire bullets will be evenly spaced inside the firing arc",
               "group": "Multi-Fire",
-              "extraInformation": [],
               "name": "BulletQuantity"
             },
             {
@@ -38074,7 +37841,6 @@
               "label": "Angle variance",
               "description": "Make imperfect aim (between 0 and 180 degrees).",
               "group": "Firing variance",
-              "extraInformation": [],
               "advanced": true,
               "name": "AngleVariance"
             },
@@ -38085,7 +37851,6 @@
               "label": "Bullet speed variance",
               "description": "Bullet speed will be adjusted by a random value within this range.",
               "group": "Firing variance",
-              "extraInformation": [],
               "advanced": true,
               "name": "BulletSpeedVariance"
             },
@@ -38093,9 +37858,6 @@
               "value": "0",
               "type": "Number",
               "label": "Ammo quantity (current)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "AmmoQuantity"
             },
@@ -38105,7 +37867,6 @@
               "label": "Shots per reload ",
               "description": "Use 0 to disable reloading.",
               "group": "Reload",
-              "extraInformation": [],
               "advanced": true,
               "name": "ShotsPerReload"
             },
@@ -38116,7 +37877,6 @@
               "label": "Reloading duration",
               "description": "Objects cannot shoot while reloading is in progress.",
               "group": "Reload",
-              "extraInformation": [],
               "advanced": true,
               "name": "ReloadDuration"
             },
@@ -38124,9 +37884,7 @@
               "value": "0",
               "type": "Number",
               "label": "Max ammo ",
-              "description": "",
               "group": "Ammo",
-              "extraInformation": [],
               "advanced": true,
               "name": "MaxAmmo"
             },
@@ -38134,9 +37892,6 @@
               "value": "0",
               "type": "Number",
               "label": "Shots before next reload",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ShotsBeforeNextReload"
             },
@@ -38145,8 +37900,6 @@
               "type": "Number",
               "label": "Total shots fired",
               "description": "Regardless of how many bullets are created, only 1 shot will be counted per frame",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TotalShotsFired"
             },
@@ -38154,9 +37907,6 @@
               "value": "0",
               "type": "Number",
               "label": "Total bullets created",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TotalBulletsCreated"
             },
@@ -38164,9 +37914,7 @@
               "value": "0",
               "type": "Number",
               "label": "Starting ammo",
-              "description": "",
               "group": "Ammo",
-              "extraInformation": [],
               "advanced": true,
               "name": "StartingAmmo"
             },
@@ -38174,9 +37922,6 @@
               "value": "0",
               "type": "Number",
               "label": "Total reloads completed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TotalReloadsCompleted"
             },
@@ -38184,9 +37929,7 @@
               "value": "true",
               "type": "Boolean",
               "label": "Unlimited ammo",
-              "description": "",
               "group": "Ammo",
-              "extraInformation": [],
               "advanced": true,
               "name": "UnlimitedAmmo"
             },
@@ -38194,9 +37937,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ReloadInProgress"
             },
@@ -38206,7 +37946,6 @@
               "label": "Heat increase per shot (between 0 and 1)",
               "description": " Object is overheated when Heat reaches 1.",
               "group": "Overheat",
-              "extraInformation": [],
               "advanced": true,
               "name": "HeatIncreasePerShot"
             },
@@ -38214,9 +37953,6 @@
               "value": "0",
               "type": "Number",
               "label": "Heat level (Range: 0 to 1)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "HeatLevel"
             },
@@ -38224,9 +37960,7 @@
               "value": "true",
               "type": "Boolean",
               "label": "Reload automatically",
-              "description": "",
               "group": "Reload",
-              "extraInformation": [],
               "advanced": true,
               "name": "AutomaticReloading"
             },
@@ -38237,7 +37971,6 @@
               "label": "Overheat duration",
               "description": "Object cannot shoot while overheat duration is active.",
               "group": "Overheat",
-              "extraInformation": [],
               "advanced": true,
               "name": "OverheatDuration"
             },
@@ -38245,9 +37978,7 @@
               "value": "0.1",
               "type": "Number",
               "label": "Linear cooling rate (per second)",
-              "description": "",
               "group": "Overheat",
-              "extraInformation": [],
               "advanced": true,
               "name": "LinearCoolingRate"
             },
@@ -38270,7 +38001,6 @@
               "label": "Layer the bullets are created on",
               "description": "Base layer by default.",
               "group": "Shooting configuration",
-              "extraInformation": [],
               "hidden": true,
               "name": "BulletLayer"
             },
@@ -38278,9 +38008,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "RandomizedAngle"
             }
