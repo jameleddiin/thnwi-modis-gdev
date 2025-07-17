@@ -506,6 +506,54 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Red panel_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red panel_No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/c3336e6a555e66170c3cc6a31a8f8be4d0ee38359c175600df05b52fdb9306e4_Red panel_No Shadow.png",
+          "name": "Red panel_No Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Red panel_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red panel_Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/b4e35bc5fc70c7fb29460a81c6e2af07056c233995792eb192104f149cfb6321_Red panel_Shadow.png",
+          "name": "Red panel_Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Large Exit Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Large Exit Button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Casual Buttons Pack/ee09bfd4171613d3e2e06b74cbd5ca525fec2a31dc4577e72399b376344626e1_Large Exit Button.png",
+          "name": "Large Exit Button.png"
+        }
+      },
+      {
+        "file": "assets/Inventory_9Slices.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory_9Slices.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/UI/9d76e6e4af68637d689d7b0904b46fdd3b3eed4363d7140e757b8b14cfdcd7cd_Inventory_9Slices.png",
+          "name": "Inventory_9Slices.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -3326,6 +3374,7 @@
       "mangledName": "levelOne",
       "name": "levelOne",
       "r": 209,
+      "resourcesPreloading": "at-startup",
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -3340,7 +3389,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4950840073749315,
+        "zoomFactor": 0.4194339782759424,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3376,7 +3425,240 @@
           ]
         }
       ],
-      "variables": [],
+      "variables": [
+        {
+          "name": "descript",
+          "type": "structure",
+          "children": [
+            {
+              "name": "lehrjahr1",
+              "type": "structure",
+              "children": [
+                {
+                  "name": "modultxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "117 pfl V4 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "122 pfl V3 Abläufe mit einer Scriptsprache automatisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "162 pfl V1 Daten analysieren und modellieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "164 pfl V1 Datenbanken erstellen und Daten einfügen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "231 pfl V1 Datenschutz und Datensicherheit anwenden"
+                    },
+                    {
+                      "type": "string",
+                      "value": "293 pfl V1 Webauftritt erstellen und veröffentlichen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "319 pfl V1 Applikationen entwerfen und implementieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "431 pfl V2 Aufträge im eigenen Berufsumfeld selbstständig durchführen"
+                    }
+                  ]
+                },
+                {
+                  "name": "uektxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "106 pfl V1 Datenbanken abfragen, bearbeiten und warten"
+                    },
+                    {
+                      "type": "string",
+                      "value": "187 pfl V1 ICT-Arbeitsplatz mit Betriebssystem in Betrieb nehmen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "216 wpfl V1 Internet of Everything-Endgeräte in bestehende Plattform integrieren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "lehrjahr2",
+              "type": "structure",
+              "children": [
+                {
+                  "name": "modultxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "114 pfl V4 Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "165 pfl V1 NoSQL-Datenbanken einsetzen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "254 pfl V3 Geschäftsprozesse im eigenen Berufsumfeld beschreiben"
+                    },
+                    {
+                      "type": "string",
+                      "value": "320 pfl V1 Objektorientiert Programmieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "322 pfl V1 Benutzerschnittstellen entwerfen und implementieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "346 pfl V1 Cloud Lösungen konzipieren und realisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "347 pfl V1 Dienst mit Container anwenden"
+                    },
+                    {
+                      "type": "string",
+                      "value": "426 pfl V1 Software mit agilen Methoden entwickeln"
+                    }
+                  ]
+                },
+                {
+                  "name": "uektxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "107 wpfl V1 ICT-Lösungen mit Blockchain Technologie umsetzen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "109 wpfl V1 Dienste in der Public Cloud betreiben und überwachen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "190 wpfl V1 Virtualisierungsplattform aufbauen und betreiben"
+                    },
+                    {
+                      "type": "string",
+                      "value": "210 wpfl V1 Public Cloud für Anwendungen nutzen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "248 wpfl V1 ICT-Lösungen mit aktuellen Technologien realisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "259 wpfl V1 ICT-Lösungen mit Machine Learning entwickeln"
+                    },
+                    {
+                      "type": "string",
+                      "value": "294 pfl V1 Frontend einer interaktiven Webapplikation realisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "295 pfl V1 Backend für Applikationen realisieren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "lehrjahr3",
+              "type": "structure",
+              "children": [
+                {
+                  "name": "modultxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "183 pfl V3 Applikationssicherheit implementieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "306 pfl V4 Kleinprojekte im eigenen Berufsumfeld abwickeln"
+                    },
+                    {
+                      "type": "string",
+                      "value": "323 pfl V1 Funktional Programmieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "450 pfl V1 Applikationen testen"
+                    }
+                  ]
+                },
+                {
+                  "name": "uektxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "110 wpfl V1 Daten mit Tools analysieren und darstellen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "185 wpfl V1 Sicherheitsmassnahmen für KMU IT analysieren & implementieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "217 wpfl V1 Service für Internet of Everything konzipieren, planen und aufbauen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "223 wpfl V3 Multi-User-Applikationen objektorientiert realisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "335 wpfl V3 Mobile-Applikation realisieren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "lehrjahr4",
+              "type": "structure",
+              "children": [
+                {
+                  "name": "modultxt",
+                  "type": "array",
+                  "children": [
+                    {
+                      "type": "string",
+                      "value": "241 pfl V1 Innovative ICT-Lösungen initialisieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "245 pfl V1 Innovative ICT-Lösungen umsetzen"
+                    },
+                    {
+                      "type": "string",
+                      "value": "321 pfl V1 Verteilte Systeme programmieren"
+                    },
+                    {
+                      "type": "string",
+                      "value": "324 pfl V1 DevOps-Prozesse mit Tools unterstützen"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -4843,15 +5125,49 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 244,
+          "height": 405,
           "keepRatio": true,
           "layer": "descriptions",
-          "name": "ÜK_106_DB",
-          "persistentUuid": "047a7a79-47cf-425b-b02c-c9bb4315f2fa",
-          "width": 704,
-          "x": 7,
-          "y": 413,
-          "zOrder": 55,
+          "name": "InfoPopupPanel",
+          "persistentUuid": "cecb28e8-f2ec-4ee5-b781-8efa94fa2912",
+          "width": 713,
+          "x": 4,
+          "y": 432,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "descriptions",
+          "name": "ExitButton",
+          "persistentUuid": "aaecd30b-b248-4826-a47f-336c03ef34c2",
+          "width": 172,
+          "x": 259,
+          "y": 731,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 265,
+          "keepRatio": true,
+          "layer": "descriptions",
+          "name": "infoTxtPopupLehrModUek",
+          "persistentUuid": "f5c15ddd-a70b-45ec-8a51-341fb684a2ec",
+          "width": 607,
+          "x": 64,
+          "y": 471,
+          "zOrder": 59,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6704,7 +7020,7 @@
           "assetStoreId": "",
           "bold": true,
           "italic": false,
-          "name": "ÜK_106_DB",
+          "name": "DB_106_ÜK",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
@@ -6753,20 +7069,198 @@
           }
         },
         {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "310bf1d14ce9e1b15d00b21a07024e5eee114a1bd0f301cca75651c44b2c7d48",
+          "name": "InfoPopupPanel",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Red panel_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 397,
+                            "y": 0
+                          },
+                          {
+                            "x": 397,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Red panel_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 397,
+                            "y": 0
+                          },
+                          {
+                            "x": 397,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "4de6f6b3cfbc080e0612304d9a50b8c88dc2e9f995be50b68736f8fbfc9151a1",
+          "name": "ExitButton",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Large Exit Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 327,
+                            "y": 0
+                          },
+                          {
+                            "x": 327,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "Module_117_Net",
+          "name": "infoTxtPopupLehrModUek",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
-          "string": "Text",
+          "behaviors": [
+            {
+              "name": "AutoTyping",
+              "type": "AutoTyping::AutoTyping",
+              "Text": "Text",
+              "Interval": 0.05,
+              "CharacterJustAdded": false,
+              "FullText": "",
+              "TypedText": ""
+            }
+          ],
+          "string": "Noch kein Treffer! Erst wenn ein ein Modul oder ein überbetrieblicher Kurs getroffen wird, wird die jeweilige Beschreibung dazu samt spezifischer Infos angezeigt.\nTriff erstmal eines der beiden Komponenten...\nBis dahin stay tuned. ",
           "font": "566a014b24b13d8f73118f13a7105778225c22c95127a8f1d5c3e996ff0768de_Ranchers-Regular.ttf",
-          "textAlignment": "left",
-          "characterSize": 20,
+          "textAlignment": "center",
+          "characterSize": 30,
           "color": {
             "b": 0,
             "g": 0,
@@ -6778,21 +7272,37 @@
             "isShadowEnabled": true,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "outlineThickness": 5,
             "shadowAngle": 90,
-            "shadowBlurRadius": 1,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
+            "shadowBlurRadius": 5,
+            "shadowColor": "155;155;155",
+            "shadowDistance": 5,
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Text",
+            "text": "Noch kein Treffer! Erst wenn ein ein Modul oder ein überbetrieblicher Kurs getroffen wird, wird die jeweilige Beschreibung dazu samt spezifischer Infos angezeigt.\nTriff erstmal eines der beiden Komponenten...\nBis dahin stay tuned. ",
             "font": "566a014b24b13d8f73118f13a7105778225c22c95127a8f1d5c3e996ff0768de_Ranchers-Regular.ttf",
-            "textAlignment": "left",
+            "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 20,
+            "characterSize": 30,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "aa86fd51d050e2faa8655dd370da1c31d4dc345b549300b1d881d0a2379e9ec2",
+          "bottomMargin": 5,
+          "height": 32,
+          "leftMargin": 5,
+          "name": "InventoryEmpty",
+          "rightMargin": 5,
+          "texture": "Inventory_9Slices.png",
+          "tiled": true,
+          "topMargin": 6,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -6838,14 +7348,50 @@
             "objectName": "throwableCable"
           },
           {
-            "objectName": "ÜK_106_DB"
+            "objectName": "DB_106_ÜK"
           },
           {
-            "objectName": "Module_117_Net"
+            "objectName": "InfoPopupPanel"
+          },
+          {
+            "objectName": "InventoryEmpty"
+          },
+          {
+            "objectName": "ExitButton"
+          },
+          {
+            "objectName": "infoTxtPopupLehrModUek"
           }
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PopUp::InitSceneItems"
+              },
+              "parameters": [
+                "",
+                "infoTxtPopupLehrModUek",
+                "ExitButton",
+                "InfoPopupPanel",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
@@ -7175,19 +7721,80 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "conditions": [],
+          "actions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsPressed"
+                "value": "PopUp::DisplayInfos"
               },
               "parameters": [
+                "",
+                "DB_106_ÜK",
+                "ExitButton",
+                "InfoPopupPanel",
                 "shootControl",
                 "ButtonFSM",
                 ""
               ]
             }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "ExitButton",
+                "",
+                "yes",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "InfoPopupPanel"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "DB_106_ÜK"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "ExitButton"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -7272,13 +7879,14 @@
           "actions": [
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                "value": "PopUp::InitSceneItems"
               },
               "parameters": [
                 "player",
-                "Animation",
-                "=",
-                "0"
+                "infoTxtPopupLehrModUek",
+                "ExitButton",
+                "InfoPopupPanel",
+                ""
               ]
             }
           ]
@@ -38012,6 +38620,421 @@
               "name": "RandomizedAngle"
             }
           ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
+    {
+      "author": "",
+      "category": "User interface",
+      "extensionNamespace": "",
+      "fullName": "Pop-up",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLW1lc3NhZ2UtYWxlcnQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTMgMTFIMTFWNUgxM00xMyAxNUgxMVYxM0gxM00yMCAySDRDMi45IDIgMiAyLjkgMiA0VjIyTDYgMThIMjBDMjEuMSAxOCAyMiAxNy4xIDIyIDE2VjRDMjIgMi45IDIxLjEgMiAyMCAyWiIgLz48L3N2Zz4=",
+      "name": "PopUp",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/message-alert.svg",
+      "shortDescription": "Display pop-ups to alert, ask confirmation, and let user type a response in text box.",
+      "version": "1.0.0",
+      "description": [
+        "This extension adds actions to display three kinds of pop-ups.",
+        "",
+        "## Alert",
+        " - Pops-up a message that will pause the game until dismissed by the player.",
+        "",
+        "## Confirmation",
+        " - Pops-up a dialogue containing a message with the option to either confirm or cancel.",
+        "",
+        "## Prompt",
+        "**Note that this pop-up type is unsupported on previews and PC exports.**",
+        " - Displays a message to the player with a text field to write an answer in. The player will also have the option to either confirm or discard their input.",
+        "",
+        "### Usage to save a value from a popup box:",
+        "![Screenshot of the way to use the extension to save a value in a variable](https://i.imgur.com/2iR5ofz.png)",
+        ""
+      ],
+      "origin": {
+        "identifier": "PopUp",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "pop up",
+        "alert",
+        "message",
+        "prompt",
+        "confirm",
+        "dialog"
+      ],
+      "authorIds": [
+        "HBp2oDKV87gKFbdd1wyV1jRYRC13",
+        "2OwwM8ToR9dx9RJ2sAKTcrLmCB92",
+        "ZgrsWuRTAkXgeuPV9bo0zuEcA2w1"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "description": "Display Infos",
+          "fullName": "Display Infos",
+          "functionType": "Action",
+          "name": "DisplayInfos",
+          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_,  _PARAM4_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsPressed"
+                  },
+                  "parameters": [
+                    "shootControl",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Red_panel",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "DB_106_ÜK",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Large_Exit_Button",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Item Text",
+              "name": "DB_106_ÜK",
+              "supplementaryInformation": "TextObject::Text",
+              "type": "objectList"
+            },
+            {
+              "description": "Exit Button",
+              "name": "Large_Exit_Button",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "Panel",
+              "name": "Red_panel",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "Shooter",
+              "name": "shootControl",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "Shoot Button",
+              "name": "ButtonFSM",
+              "supplementaryInformation": "ButtonStates::ButtonFSM",
+              "type": "behavior"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "The function hides th einformations at statup and after clicking the exit button if the item infos has been shown. It displays the correspondent random informations once if module or ÜK is hit from player",
+          "fullName": "ManageItemDescriptionDisplay",
+          "functionType": "Action",
+          "name": "Function",
+          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_, _PARAM4_, _PARAM5_, ",
+          "events": [],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Initializes the items at the start of the scene",
+          "fullName": "Initialize scene items",
+          "functionType": "Action",
+          "group": "Init Scene",
+          "name": "InitSceneItems",
+          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "InfoPopupPanel"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "infoTxtPopupLehrModUek"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "ExitButton"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [
+            {
+              "description": "",
+              "name": "infoTxtPopupLehrModUek",
+              "supplementaryInformation": "TextObject::Text",
+              "type": "objectList"
+            },
+            {
+              "description": "",
+              "name": "ExitButton",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "",
+              "name": "InfoPopupPanel",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "The response to a pop-up message is filled.",
+          "fullName": "Existing prompt response",
+          "functionType": "Condition",
+          "name": "PromptValidResponse",
+          "sentence": "Response from the pop-up prompt is filled",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const promptResponse = runtimeScene.getVariables().get(\"__PopUp\").getChild(\"Prompt\").getAsString();",
+                "eventsFunctionContext.returnValue = promptResponse !== \"\";",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the text response by user to prompt.",
+          "fullName": "Response to prompt",
+          "functionType": "StringExpression",
+          "name": "PromptResponse",
+          "sentence": "Open prompt with message : _PARAM1_ with ID: _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "eventsFunctionContext.returnValue = runtimeScene.getVariables().get(\"__PopUp\").getChild(\"Prompt\").getAsString();\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Displays a prompt in a pop-up that prompts the user for input. This action return the text input or the false boolean if canceled.",
+          "fullName": "Prompt",
+          "functionType": "Action",
+          "group": "Web browsers",
+          "name": "Prompt",
+          "sentence": "Open a prompt pop-up box with message: _PARAM1_ (placeholder: _PARAM2_)",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const message = eventsFunctionContext.getArgument(\"Message\");",
+                "const defaultText = eventsFunctionContext.getArgument(\"DefaultText\");",
+                "",
+                "const response = prompt(message, defaultText);",
+                "runtimeScene",
+                "    .getVariables()",
+                "    .get(\"__PopUp\")",
+                "    .getChild(\"Prompt\")",
+                "    .setString(response || \"\");",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Prompt message",
+              "name": "Message",
+              "type": "string"
+            },
+            {
+              "description": "Input placeholder",
+              "name": "DefaultText",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Ask confirmation of user with a message in a dialog box with an OK button, and a Cancel button.",
+          "fullName": "Confirm",
+          "functionType": "Action",
+          "name": "Confirm",
+          "sentence": "Open a confirmation pop-up box with message: _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const isConfirmed = confirm(eventsFunctionContext.getArgument(\"Message\"));",
+                "runtimeScene",
+                "    .getVariables()",
+                "    .get(\"__PopUp\")",
+                "    .getChild(\"Confirm\")",
+                "    .setBoolean(isConfirmed);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Confirmation message",
+              "longDescription": "The text to display in the confirm box.",
+              "name": "Message",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if a confirmation was accepted.",
+          "fullName": "Pop-up message confirmed",
+          "functionType": "Condition",
+          "name": "ConfimationResponse",
+          "sentence": "Pop-up message is confirmed",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "eventsFunctionContext.returnValue = runtimeScene.getVariables().get(\"__PopUp\").getChild(\"Confirm\").getAsBoolean();\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "fullName": "ShowInfo",
+          "functionType": "Expression",
+          "name": "ShowInfo",
+          "sentence": "",
+          "events": [],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Displays an alert box with a message and an OK button in a pop-up window.",
+          "fullName": "Alert",
+          "functionType": "Action",
+          "name": "Alert",
+          "sentence": "Open an alert pop-up box with message: _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "alert(eventsFunctionContext.getArgument(\"Message\"));\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Alert message",
+              "name": "Message",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "",
+          "fullName": "",
+          "name": "MyBehavior",
+          "objectType": "",
+          "eventsFunctions": [],
+          "propertyDescriptors": [],
           "sharedPropertyDescriptors": []
         }
       ],
