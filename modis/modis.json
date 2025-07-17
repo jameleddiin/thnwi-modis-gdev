@@ -7743,7 +7743,18 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsPressed"
+              },
+              "parameters": [
+                "jumpControl",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -7751,11 +7762,13 @@
               },
               "parameters": [
                 "",
-                "DB_106_ÜK",
-                "ExitButton",
+                "lehrjahr",
+                "typ",
                 "InfoPopupPanel",
+                "infoTxtPopupLehrModUek",
+                "ExitButton",
                 "shootControl",
-                "ButtonFSM",
+                "",
                 ""
               ]
             }
@@ -7908,6 +7921,7 @@
                 "infoTxtPopupLehrModUek",
                 "ExitButton",
                 "InfoPopupPanel",
+                "",
                 ""
               ]
             }
@@ -38702,29 +38716,18 @@
           "fullName": "Display Infos",
           "functionType": "Action",
           "name": "DisplayInfos",
-          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_,  _PARAM4_, _PARAM5_, _PARAM6_",
+          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_,  _PARAM4_, _PARAM5_, _PARAM6_, _PARAM7_",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsPressed"
-                  },
-                  "parameters": [
-                    "infoTxtPopupLehrModUek",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
+              "conditions": [],
               "actions": [
                 {
                   "type": {
                     "value": "Montre"
                   },
                   "parameters": [
-                    "randomnum",
+                    "InfoPopupPanel",
                     ""
                   ]
                 },
@@ -38733,7 +38736,7 @@
                     "value": "Montre"
                   },
                   "parameters": [
-                    "DB_106_ÜK",
+                    "infoTxtPopupLehrModUek",
                     ""
                   ]
                 },
@@ -38742,7 +38745,7 @@
                     "value": "Montre"
                   },
                   "parameters": [
-                    "moduektyp",
+                    "ExitButton",
                     ""
                   ]
                 }
@@ -38779,6 +38782,18 @@
               "name": "ExitButton",
               "supplementaryInformation": "Sprite",
               "type": "objectList"
+            },
+            {
+              "description": "shootControl",
+              "name": "shootControl",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "ButtonFSM",
+              "name": "ButtonFSM",
+              "supplementaryInformation": "ButtonStates::ButtonAnimationName",
+              "type": "behavior"
             }
           ],
           "objectGroups": []
