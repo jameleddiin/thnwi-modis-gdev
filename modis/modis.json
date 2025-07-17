@@ -3657,6 +3657,16 @@
               ]
             }
           ]
+        },
+        {
+          "name": "lehrjahr",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "typ",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -7380,6 +7390,16 @@
           "actions": [
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "lehrjahr",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
                 "value": "PopUp::InitSceneItems"
               },
               "parameters": [
@@ -7387,6 +7407,8 @@
                 "infoTxtPopupLehrModUek",
                 "ExitButton",
                 "InfoPopupPanel",
+                "lehrjahr",
+                "uk",
                 ""
               ]
             }
@@ -38680,7 +38702,7 @@
           "fullName": "Display Infos",
           "functionType": "Action",
           "name": "DisplayInfos",
-          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_,  _PARAM4_",
+          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_,  _PARAM4_, _PARAM5_, _PARAM6_",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -38690,7 +38712,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "shootControl",
+                    "infoTxtPopupLehrModUek",
                     "ButtonFSM",
                     ""
                   ]
@@ -38702,7 +38724,7 @@
                     "value": "Montre"
                   },
                   "parameters": [
-                    "Red_panel",
+                    "randomnum",
                     ""
                   ]
                 },
@@ -38720,7 +38742,7 @@
                     "value": "Montre"
                   },
                   "parameters": [
-                    "Large_Exit_Button",
+                    "moduektyp",
                     ""
                   ]
                 }
@@ -38729,46 +38751,36 @@
           ],
           "parameters": [
             {
-              "description": "Item Text",
-              "name": "DB_106_ÜK",
+              "description": "lehrjahr",
+              "name": "lehrjahr",
+              "supplementaryInformation": "TextObject::Text",
+              "type": "variable"
+            },
+            {
+              "description": "moduektyp",
+              "name": "moduektyp",
+              "supplementaryInformation": "Sprite",
+              "type": "variable"
+            },
+            {
+              "description": "InfoPopupPanel",
+              "name": "InfoPopupPanel",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "infoTxtPopupLehrModUek",
+              "name": "infoTxtPopupLehrModUek",
               "supplementaryInformation": "TextObject::Text",
               "type": "objectList"
             },
             {
-              "description": "Exit Button",
-              "name": "Large_Exit_Button",
+              "description": "ExitButton",
+              "name": "ExitButton",
               "supplementaryInformation": "Sprite",
               "type": "objectList"
-            },
-            {
-              "description": "Panel",
-              "name": "Red_panel",
-              "supplementaryInformation": "Sprite",
-              "type": "objectList"
-            },
-            {
-              "description": "Shooter",
-              "name": "shootControl",
-              "supplementaryInformation": "Sprite",
-              "type": "objectList"
-            },
-            {
-              "description": "Shoot Button",
-              "name": "ButtonFSM",
-              "supplementaryInformation": "ButtonStates::ButtonFSM",
-              "type": "behavior"
             }
           ],
-          "objectGroups": []
-        },
-        {
-          "description": "The function hides th einformations at statup and after clicking the exit button if the item infos has been shown. It displays the correspondent random informations once if module or ÜK is hit from player",
-          "fullName": "ManageItemDescriptionDisplay",
-          "functionType": "Action",
-          "name": "Function",
-          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_, _PARAM4_, _PARAM5_, ",
-          "events": [],
-          "parameters": [],
           "objectGroups": []
         },
         {
@@ -38777,7 +38789,7 @@
           "functionType": "Action",
           "group": "Init Scene",
           "name": "InitSceneItems",
-          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_",
+          "sentence": "_PARAM1_, _PARAM2_, _PARAM3_, _PARAM4_",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -38837,6 +38849,11 @@
               "name": "InfoPopupPanel",
               "supplementaryInformation": "Sprite",
               "type": "objectList"
+            },
+            {
+              "description": "lehrjahr",
+              "name": "lehrjahr",
+              "type": "variable"
             }
           ],
           "objectGroups": []
