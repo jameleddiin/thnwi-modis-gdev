@@ -3450,64 +3450,14 @@
           "value": 0
         },
         {
-          "name": "random",
+          "name": "size",
           "type": "number",
           "value": 0
         },
         {
-          "name": "lj1mit1",
-          "type": "string",
-          "value": "117 pfl V4 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren"
-        },
-        {
-          "name": "lj1mift",
-          "type": "array",
-          "children": [
-            {
-              "type": "string",
-              "value": "117 pfl V4 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren"
-            },
-            {
-              "type": "string",
-              "value": "122 pfl V3 Abläufe mit einer Scriptsprache automatisieren"
-            },
-            {
-              "type": "string",
-              "value": "162 pfl V1 Daten analysieren und modellieren"
-            }
-          ]
-        },
-        {
-          "name": "lj1muift",
-          "type": "array",
-          "children": [
-            {
-              "type": "array",
-              "children": [
-                {
-                  "type": "string",
-                  "value": "117 pfl V4 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren"
-                },
-                {
-                  "type": "string",
-                  "value": "122 pfl V3 Abläufe mit einer Scriptsprache automatisieren"
-                }
-              ]
-            },
-            {
-              "type": "array",
-              "children": [
-                {
-                  "type": "string",
-                  "value": "106 pfl V1 Datenbanken abfragen, bearbeiten und warten"
-                },
-                {
-                  "type": "string",
-                  "value": "187 pfl V1 ICT-Arbeitsplatz mit Betriebssystem in Betrieb nehmen"
-                }
-              ]
-            }
-          ]
+          "name": "random",
+          "type": "number",
+          "value": 0
         },
         {
           "name": "info",
@@ -3521,11 +3471,11 @@
                   "children": [
                     {
                       "type": "string",
-                      "value": "117 pfl V4 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren"
+                      "value": "🛠️ Modul 117: Netzwerk für KMU 📅 Publiziert: 22.07.2024 | Version: 4 👥 Berufe: Plattformentwicklung, Applikationsentwicklung, Betriebsinformatik, Gebäudeinformatik 🎯 Ziel: Lokales Netzwerk (ohne zentrale Benutzerverwaltung) planen, installieren und testen.  🔧 Objekt LAN für bis zu 10 Arbeitsplätze mit Internet, PC & Drucker in verschiedenen Räumen – ab LAN-Steckdose.  📌 Kernziele Anforderungen und Dienste erfassen (z.B. Internet, Cloud).  Netzwerkschema & Verkabelung planen.  Installation ab UGV bis Endgerät planen.  Netzwerkkomponenten installieren & konfigurieren.  Ressourcenverwaltung & Datei-/Druckerfreigabe einrichten.  Netzwerk testen (Funktion, Sicherheit, Performance).  Ergebnisse dokumentieren.  📚 Wichtige Begriffe Netzwerkschema, IP, DNS, Gateway  Switch, Router, Accesspoint  OSI & TCP/IP Modell  Kabeltypen: RJ45, UTP, STP, Glasfaser  WLAN-Standards, Cloud, Shares, Gruppenrechte  Tests: Funktion, Performance, Sicherheit"
                     },
                     {
                       "type": "string",
-                      "value": "122 pfl V3 Abläufe mit einer Scriptsprache automatisieren"
+                      "value": "⚙️ Modul 122: Abläufe mit Scripts automatisieren 📅 Publiziert: 13.08.2021 | Version: 3 👩‍💻 Für: Applikationsentwicklung, Plattformentwicklung, Systemtechnik, Betriebsinformatik, ICT-Fachleute  🎯 Ziel Abläufe mit Scripts automatisieren (z. B. in der Systemadministration).  🛠️ Inhalt Abläufe grafisch darstellen (z. B. Ablaufplan)  Kontrollstrukturen: Sequenz, Selektion, Iteration  Script schreiben & ins System integrieren  Funktionalität testen  Einsatz dokumentieren  🔑 Stichworte Scripting – Automatisierung – Benutzerinteraktion – Sicherheit – Dokumentation – Test"
                     },
                     {
                       "type": "string",
@@ -3558,7 +3508,7 @@
                   "children": [
                     {
                       "type": "string",
-                      "value": "106 pfl V1 Datenbanken abfragen, bearbeiten und warten"
+                      "value": "ÜK 106: Datenbanken Inhalt: Abfragen, Bearbeiten, Sichern und Optimieren von Datenbanken Zielgruppe: Informatiker/in EFZ (App-/Plattform-Entwicklung)  🎯 Kompetenz → Daten effizient abfragen, ändern, schützen & sichern.  🧱 Objekt → DB mit bis zu 10 Tabellen inkl. Beziehungen und schützenswerten Daten.  🛠️ Handlungsziele (kompakt) Sicherheitskonzept erstellen → Rollen + Zugriffsregeln dokumentieren → Prinzipien von DB-Sicherheit verstehen  Zugriffsrechte umsetzen → DCL-Befehle für Rollen & Berechtigungen nutzen  Daten abfragen → DQL mit Filtern, JOINs, Gruppierung & Aggregationen  Daten bearbeiten & transaktional sichern → ACID-Prinzip, Transaktionen mit TCL  Backup & Restore → DB sichern & wiederherstellen im Betrieb  Schema anpassen/migrieren → DDL-Befehle für Strukturänderung  Leistung optimieren → Indizes einsetzen für bessere Performance"
                     },
                     {
                       "type": "string",
@@ -3573,6 +3523,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "array",
               "children": [
                 {
@@ -3580,35 +3531,35 @@
                   "children": [
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "114 pfl V4 Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "165 pfl V1 NoSQL-Datenbanken einsetzen"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "254 pfl V3 Geschäftsprozesse im eigenen Berufsumfeld beschreiben"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "0320 pfl V1 Objektorientiert Programmieren"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "322 pfl V1 Benutzerschnittstellen entwerfen und implementieren"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "346 pfl V1 Cloud Lösungen konzipieren und realisieren"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "347 pfl V1 Dienst mit Container anwenden"
                     },
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "426 pfl V1 Software mit agilen Methoden entwickeln"
                     }
                   ]
                 },
@@ -3617,41 +3568,42 @@
                   "children": [
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "107 wpfl V1 ICT-Lösungen mit Blockchain Technologie umsetzen"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "109 wpfl V1 Dienste in der Public Cloud betreiben und überwachen"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "190 wpfl V1 Virtualisierungsplattform aufbauen und betreiben"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "210 wpfl V1 Public Cloud für Anwendungen nutzen"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "248 wpfl V1 ICT-Lösungen mit aktuellen Technologien realisieren"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "259 wpfl V1 ICT-Lösungen mit Machine Learning entwickeln"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "294 pfl V1 Frontend einer interaktiven Webapplikation realisieren"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "295 pfl V1 Backend für Applikationen realisieren"
                     }
                   ]
                 }
               ]
             },
             {
+              "folded": true,
               "type": "array",
               "children": [
                 {
@@ -3659,19 +3611,19 @@
                   "children": [
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "183 pfl V3 Applikationssicherheit implementieren"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "306 pfl V4 Kleinprojekte im eigenen Berufsumfeld abwickeln"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "323 pfl V1 Funktional Programmieren"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "450 pfl V1 Applikationen testen"
                     }
                   ]
                 },
@@ -3680,23 +3632,23 @@
                   "children": [
                     {
                       "type": "string",
-                      "value": "0"
+                      "value": "110 wpfl V1 Daten mit Tools analysieren und darstellen"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "185 wpfl V1 Sicherheitsmassnahmen für KMU IT analysieren & implementieren"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "217 wpfl V1 Service für Internet of Everything konzipieren, planen und aufbauen"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "223 wpfl V3 Multi-User-Applikationen objektorientiert realisieren"
                     },
                     {
                       "type": "string",
-                      "value": ""
+                      "value": "335 wpfl V3 Mobile-Applikation realisieren"
                     }
                   ]
                 }
@@ -3730,26 +3682,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "size",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "name": "size0",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "name": "size1",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "name": "size2",
-          "type": "number",
-          "value": 0
         },
         {
           "folded": true,
@@ -7716,6 +7648,26 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "size",
+                "=",
+                "VariableChildCount(info[lehrjahr][typ])"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "random",
+                "=",
+                "Random(VariableChildCount(info[lehrjahr][typ]))"
+              ]
+            },
+            {
+              "type": {
                 "value": "PopUp::InitSceneItems"
               },
               "parameters": [
@@ -7726,14 +7678,6 @@
                 "lehrjahr",
                 "uk",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "DB_106_ÜK"
               ]
             }
           ]
@@ -8754,6 +8698,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -8784,27 +8734,7 @@
               "parameters": [
                 "size",
                 "=",
-                "lj1mit1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "size0",
-                "=",
-                "VariableChildCount(lj1mift)"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "size1",
-                "=",
-                "VariableChildCount(lj1muift[1])"
+                "VariableChildCount(info[lehrjahr][typ])"
               ]
             },
             {
@@ -8857,22 +8787,11 @@
             },
             {
               "type": {
-                "value": "DebuggerTools::ConsoleLog"
+                "value": "RemoveVariableAt"
               },
               "parameters": [
-                "random",
-                "\"info\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "DebuggerTools::ConsoleLog"
-              },
-              "parameters": [
-                "infoTxtPopupLehrModUek.Text::Value()",
-                "\"info\"",
-                ""
+                "info[lehrjahr][typ]",
+                "Variable(random)"
               ]
             }
           ]
