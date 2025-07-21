@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 237,
+    "build": 231,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -627,6 +627,150 @@
         "name": "assets\\Jump-Control.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Door_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closed.png",
+          "name": "Door_Closed.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/6b88886449d1d6f007da76f35dde1a45f53cb3ed4976d3a7b623f2cfd3224d00_Door_Closing_1.png",
+          "name": "Door_Closing_1.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_2.png",
+          "name": "Door_Closing_2.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_3.png",
+          "name": "Door_Closing_3.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_4.png",
+          "name": "Door_Closing_4.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_5.png",
+          "name": "Door_Closing_5.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/872440f9321bc83d4317c3d70200b8b04da2bca3a574cd9c9d3aca27472b5785_Door_Opening_1.png",
+          "name": "Door_Opening_1.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_2.png",
+          "name": "Door_Opening_2.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_3.png",
+          "name": "Door_Opening_3.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_4.png",
+          "name": "Door_Opening_4.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_5.png",
+          "name": "Door_Opening_5.png"
+        }
+      },
+      {
+        "file": "assets/SignArrow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignArrow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Desert/Objects/88a7cfaf73c9be082c703d1457032986069286a0a1a72c22928c0ef1f3c52c33_SignArrow.png",
+          "name": "SignArrow.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -3105,17 +3249,7 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [
-        {
-          "name": "AutoTyping",
-          "type": "AutoTyping::AutoTyping",
-          "Text": "Text",
-          "Interval": 0.05,
-          "CharacterJustAdded": false,
-          "FullText": "",
-          "TypedText": ""
-        }
-      ],
+      "behaviors": [],
       "string": "Modul XY",
       "font": "assets\\Goldman-Bold.ttf",
       "textAlignment": "left",
@@ -3157,17 +3291,7 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [
-        {
-          "name": "AutoTyping",
-          "type": "AutoTyping::AutoTyping",
-          "Text": "Text",
-          "Interval": 0.05,
-          "CharacterJustAdded": false,
-          "FullText": "",
-          "TypedText": ""
-        }
-      ],
+      "behaviors": [],
       "string": "Moduldescription\n\nNoch kein Treffer! Erst wenn ein ein Modul oder ein überbetrieblicher Kurs getroffen wird, wird die jeweilige Beschreibung dazu samt spezifischer Infos angezeigt.\nTriff erstmal eines der beiden Komponenten...\nBis dahin stay tuned. ",
       "font": "assets\\Goldman-Regular.ttf",
       "textAlignment": "left",
@@ -4307,7 +4431,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2725359896773389,
+        "zoomFactor": 0.4194339782759786,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4673,7 +4797,7 @@
           "persistentUuid": "13d3f182-3a0e-4119-a649-a77e80399085",
           "width": 3774,
           "x": -852,
-          "y": -1091,
+          "y": -1092,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5109,7 +5233,7 @@
           "width": 136.82758620689654,
           "x": 1265,
           "y": 13,
-          "zOrder": 24,
+          "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5126,7 +5250,7 @@
           "width": 89.14285714285714,
           "x": 2726,
           "y": 635,
-          "zOrder": 27,
+          "zOrder": 69,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5143,7 +5267,7 @@
           "width": 89.14285714285714,
           "x": 2260,
           "y": 400,
-          "zOrder": 28,
+          "zOrder": 68,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5704,7 +5828,7 @@
           "width": 136.82758620689654,
           "x": 341,
           "y": -194,
-          "zOrder": 24,
+          "zOrder": 67,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5721,7 +5845,7 @@
           "width": 88.00000000000001,
           "x": 2273,
           "y": -718,
-          "zOrder": 21,
+          "zOrder": 65,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5738,7 +5862,7 @@
           "width": 88.00000000000001,
           "x": 1822,
           "y": -718,
-          "zOrder": 21,
+          "zOrder": 66,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5917,7 +6041,7 @@
           "width": 89.14285714285714,
           "x": 2739,
           "y": -654,
-          "zOrder": 28,
+          "zOrder": 72,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6011,14 +6135,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 449,
+          "height": 705,
           "keepRatio": true,
           "layer": "",
           "name": "wallBlock",
           "persistentUuid": "759c3bb3-3aec-4c6c-a9bf-a99931c13559",
-          "width": 3648,
-          "x": -787,
-          "y": -1540,
+          "width": 5185,
+          "x": -1557,
+          "y": -1796,
           "zOrder": 54,
           "numberProperties": [],
           "stringProperties": [],
@@ -6528,6 +6652,39 @@
           "x": 67,
           "y": 363,
           "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "SignArrow",
+          "persistentUuid": "6108f3f8-0af1-4c14-adc4-df27d8f078d2",
+          "width": 38,
+          "x": 2659,
+          "y": -654,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "a8fe5753-852e-4e19-8ce2-1ccbf306f0d2",
+          "width": 0,
+          "x": 2768,
+          "y": -686,
+          "zOrder": 71,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7981,15 +8138,508 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite",
-          "texture": "assets\\Pop up.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "6ccc9a7787f5d46363c032e0af73c9129eeae4e852d77e17a4794732682c6148",
+          "name": "Door",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Closed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Closed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Closing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Closing_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Closing_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Closing_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Closing_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Closing_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Opening",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Opening_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Opening_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Opening_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Opening_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Door_Opening_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 0
+                          },
+                          {
+                            "x": 77,
+                            "y": 96
+                          },
+                          {
+                            "x": 1,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c990849b6fdbfbedc39d6de3f8db9d93e8b5004623970ce546cc0aa74d283f0b",
+          "name": "SignArrow",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignArrow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 42,
+                            "y": 0
+                          },
+                          {
+                            "x": 42,
+                            "y": 44
+                          },
+                          {
+                            "x": 0,
+                            "y": 44
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8038,7 +8688,10 @@
             "objectName": "earthBlock"
           },
           {
-            "objectName": "NewTiledSprite"
+            "objectName": "Door"
+          },
+          {
+            "objectName": "SignArrow"
           }
         ]
       },
@@ -8070,16 +8723,6 @@
               },
               "parameters": [
                 "LeftArrow"
-              ]
-            },
-            {
-              "type": {
-                "value": "AutoTyping::AutoTyping::ShowFullText"
-              },
-              "parameters": [
-                "popupTitle",
-                "AutoTyping",
-                ""
               ]
             }
           ]
@@ -10105,6 +10748,25 @@
                 },
                 {
                   "type": {
+                    "value": "TextObject::WrappingWidth"
+                  },
+                  "parameters": [
+                    "popupText",
+                    "=",
+                    "popupBg.Width()-10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::SetWrapping"
+                  },
+                  "parameters": [
+                    "popupText",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "CentreCamera"
                   },
                   "parameters": [
@@ -10259,6 +10921,63 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeLayer"
+                  },
+                  "parameters": [
+                    "popup",
+                    "\"Popup\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::SetWrapping"
+                  },
+                  "parameters": [
+                    "popupText",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::WrappingWidth"
+                  },
+                  "parameters": [
+                    "popupText",
+                    "=",
+                    "popupBg.Width()-10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "popup",
+                    "\"Popup\"",
+                    "\"Popup\"",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "0"
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -10305,6 +11024,101 @@
               "parameters": [
                 "",
                 "\"startScene\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Door",
+                    "Animation",
+                    "=",
+                    "\"Opening\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "Door",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "player",
+                    "Door",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"quiz\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "moduleCounter",
+                "=",
+                "totalModuleCount"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "ukCounter",
+                "=",
+                "totalUkCount"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Door",
+                "Animation",
+                "=",
+                "\"Opening\""
               ]
             }
           ]
@@ -10404,15 +11218,20 @@
                 ">",
                 "heartCounterBefore"
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "heartCounterBefore",
+                "=",
+                "heartCounter"
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -10439,7 +11258,7 @@
                     "heart",
                     "heart.X() + heart.Width() + 5",
                     "heart.Y()",
-                    "\"Informations                              \""
+                    "\"Informations\""
                   ]
                 },
                 {
@@ -10523,18 +11342,23 @@
               },
               "parameters": [
                 "heartCounterBefore",
-                "<",
+                ">",
                 "heartCounter"
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "heartCounterBefore",
+                "=",
+                "heartCounter"
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -10559,17 +11383,6 @@
                   "parameters": [
                     "heart",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "player",
-                    "Opacity",
-                    "=",
-                    "player.Opacity::Value() - (player.Opacity::Value()/(heartCounter+1))"
                   ]
                 },
                 {
@@ -10696,6 +11509,150 @@
           "visibility": true,
           "cameras": [],
           "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "AdvancedJump",
+          "type": "AdvancedJump::AdvancedJump"
+        },
+        {
+          "name": "AdvancedProjectile",
+          "type": "AdvancedProjectile::AdvancedProjectile"
+        },
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "ButtonObjectEffects",
+          "type": "ButtonStates::ButtonObjectEffects"
+        },
+        {
+          "name": "DiveDash",
+          "type": "AdvancedJump::DiveDash"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "EllipseMovement",
+          "type": "EllipseMovement::EllipseMovement"
+        },
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "MultitouchButton",
+          "type": "SpriteMultitouchJoystick::MultitouchButton"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerConfigurationStack",
+          "type": "AdvancedJump::PlatformerConfigurationStack"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "WallJump",
+          "type": "AdvancedJump::WallJump"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "quiz",
+      "name": "quiz",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -11757,6 +12714,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Text capability",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "TextContainerCapability::TextContainerBehavior"
               ],
@@ -11767,12 +12726,18 @@
               "type": "Number",
               "unit": "Second",
               "label": "Time between characters",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "Interval"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Detect if a new text character was just displayed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "CharacterJustAdded"
             },
@@ -11780,6 +12745,9 @@
               "value": "",
               "type": "String",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "FullText"
             },
@@ -11787,6 +12755,9 @@
               "value": "",
               "type": "String",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TypedText"
             }
@@ -12916,6 +13887,8 @@
               "type": "Boolean",
               "label": "",
               "description": "Should check hovering",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ShouldCheckHovering"
             },
@@ -12923,6 +13896,8 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Idle",
                 "Hovered",
@@ -12937,6 +13912,9 @@
               "value": "0",
               "type": "Number",
               "label": "Touch id",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -12944,6 +13922,9 @@
               "value": "",
               "type": "Boolean",
               "label": "Touch is inside",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchIsInside"
             },
@@ -12951,6 +13932,9 @@
               "value": "",
               "type": "Boolean",
               "label": "Mouse is inside",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "MouseIsInside"
             },
@@ -12958,6 +13942,9 @@
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "Index"
             }
@@ -14450,12 +15437,16 @@
               "value": "0",
               "type": "Number",
               "label": "Label offset on Y axis when pressed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "PressedLabelOffsetY"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Left padding",
+              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -14466,6 +15457,7 @@
               "value": "0",
               "type": "Number",
               "label": "Right padding",
+              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -14476,6 +15468,7 @@
               "value": "0",
               "type": "Number",
               "label": "Top padding",
+              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -14486,6 +15479,7 @@
               "value": "0",
               "type": "Number",
               "label": "Bottom padding",
+              "description": "",
               "group": "Padding",
               "extraInformation": [
                 "Label"
@@ -14496,6 +15490,9 @@
               "value": "0.25",
               "type": "Number",
               "label": "Hovered fade out duration (in seconds)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "HoveredFadeOutDuration"
             }
           ],
@@ -15631,6 +16628,8 @@
               "type": "Boolean",
               "label": "",
               "description": "Should check hovering",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ShouldCheckHovering"
             },
@@ -15638,6 +16637,8 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Idle",
                 "Hovered",
@@ -15652,6 +16653,9 @@
               "value": "0",
               "type": "Number",
               "label": "Touch id",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -15659,6 +16663,9 @@
               "value": "",
               "type": "Boolean",
               "label": "Touch is inside",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchIsInside"
             },
@@ -15666,6 +16673,9 @@
               "value": "",
               "type": "Boolean",
               "label": "Mouse is inside",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "MouseIsInside"
             },
@@ -15673,6 +16683,9 @@
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "Index"
             }
@@ -16179,6 +17192,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -16188,6 +17203,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Effect capability",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
@@ -16197,7 +17214,9 @@
               "value": "",
               "type": "String",
               "label": "Idle state effect",
+              "description": "",
               "group": "Effects",
+              "extraInformation": [],
               "name": "IdleEffect"
             },
             {
@@ -16206,13 +17225,16 @@
               "label": "Focused state effect",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Effects",
+              "extraInformation": [],
               "name": "FocusedEffect"
             },
             {
               "value": "",
               "type": "String",
               "label": "Pressed state effect",
+              "description": "",
               "group": "Effects",
+              "extraInformation": [],
               "name": "PressedEffect"
             }
           ],
@@ -16627,6 +17649,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Animatable capability",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
@@ -16636,6 +17660,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -16645,7 +17671,9 @@
               "value": "Idle",
               "type": "String",
               "label": "Idle state animation name",
+              "description": "",
               "group": "Animation",
+              "extraInformation": [],
               "name": "IdleAnimationName"
             },
             {
@@ -16654,13 +17682,16 @@
               "label": "Focused state animation name",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Animation",
+              "extraInformation": [],
               "name": "FocusedAnimationName"
             },
             {
               "value": "Pressed",
               "type": "String",
               "label": "Pressed state animation name",
+              "description": "",
               "group": "Animation",
+              "extraInformation": [],
               "name": "PressedAnimationName"
             }
           ],
@@ -18029,6 +19060,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -18038,6 +19071,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Effect capability",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
@@ -18047,7 +19082,9 @@
               "value": "Effect",
               "type": "String",
               "label": "Effect name",
+              "description": "",
               "group": "Effect",
+              "extraInformation": [],
               "name": "EffectName"
             },
             {
@@ -18056,13 +19093,16 @@
               "label": "Effect parameter",
               "description": "The effect parameter names can be found in the effects tab with the \"Show parameter names\" action of the drop down menu.",
               "group": "Effect",
+              "extraInformation": [],
               "name": "EffectProperty"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Idle effect parameter value",
+              "description": "",
               "group": "Value",
+              "extraInformation": [],
               "name": "IdleValue"
             },
             {
@@ -18071,19 +19111,23 @@
               "label": "Focused effect parameter value",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Value",
+              "extraInformation": [],
               "name": "FocusedValue"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Pressed effect parameter value",
+              "description": "",
               "group": "Value",
+              "extraInformation": [],
               "name": "PressedValue"
             },
             {
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-in easing",
+              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -18126,6 +19170,7 @@
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-out easing",
+              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -18169,7 +19214,9 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-in duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "FadeInDuration"
             },
             {
@@ -18177,13 +19224,17 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-out duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "FadeOutDuration"
             },
             {
               "value": "Idle",
               "type": "Choice",
               "label": "",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Idle",
                 "Focused",
@@ -18196,6 +19247,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TweenInitialValue"
             },
@@ -18203,6 +19257,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TweenTargetedValue"
             },
@@ -18210,6 +19267,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TweenTime"
             },
@@ -18217,6 +19277,8 @@
               "value": "NoTween",
               "type": "Choice",
               "label": "",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "NoTween",
                 "FadeIn",
@@ -18229,6 +19291,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "EffectValue"
             }
@@ -19172,6 +20237,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Scalable capability",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
@@ -19181,6 +20248,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states behavior (required)",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -19190,6 +20259,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Tween behavior (required)",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
@@ -19200,7 +20271,9 @@
               "type": "Number",
               "unit": "Dimensionless",
               "label": "Idle state size scale",
+              "description": "",
               "group": "Size",
+              "extraInformation": [],
               "name": "IdleScale"
             },
             {
@@ -19210,6 +20283,7 @@
               "label": "Focused state size scale",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Size",
+              "extraInformation": [],
               "name": "FocusedScale"
             },
             {
@@ -19217,7 +20291,9 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-in duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "FadeInDuration"
             },
             {
@@ -19225,7 +20301,9 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-out duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "FadeOutDuration"
             },
             {
@@ -19233,13 +20311,16 @@
               "type": "Number",
               "unit": "Dimensionless",
               "label": "Pressed state size scale",
+              "description": "",
               "group": "Size",
+              "extraInformation": [],
               "name": "PressedScale"
             },
             {
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-in easing",
+              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -19282,6 +20363,7 @@
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-out easing",
+              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -19324,6 +20406,8 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Idle",
                 "Focused",
@@ -20286,6 +21370,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Button states",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
@@ -20295,6 +21381,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Tween",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
@@ -20304,7 +21392,9 @@
               "value": "255;255;255",
               "type": "Color",
               "label": "Idle state color tint",
+              "description": "",
               "group": "Color",
+              "extraInformation": [],
               "name": "IdleColorTint"
             },
             {
@@ -20313,13 +21403,16 @@
               "label": "Focused state color tint",
               "description": "The state is Focused when the button is hovered or held outside.",
               "group": "Color",
+              "extraInformation": [],
               "name": "FocusedColorTint"
             },
             {
               "value": "64;64;64",
               "type": "Color",
               "label": "Pressed state color tint",
+              "description": "",
               "group": "Color",
+              "extraInformation": [],
               "name": "PressedColorTint"
             },
             {
@@ -20327,7 +21420,9 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-in duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "FadeInDuration"
             },
             {
@@ -20335,13 +21430,16 @@
               "type": "Number",
               "unit": "Second",
               "label": "Fade-out duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "FadeOutDuration"
             },
             {
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-in easing",
+              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -20384,6 +21482,7 @@
               "value": "easeInOutQuad",
               "type": "Choice",
               "label": "Fade-out easing",
+              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -20426,6 +21525,8 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Idle",
                 "Focused",
@@ -23482,12 +24583,18 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "String",
               "label": "Joystick name",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "JoystickIdentifier"
             },
             {
@@ -23495,12 +24602,17 @@
               "type": "Number",
               "label": "Dead zone radius (range: 0 to 1)",
               "description": "The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved)",
+              "group": "",
+              "extraInformation": [],
               "name": "DeadZoneRadius"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Joystick angle (range: -180 to 180)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "JoystickAngle"
             },
@@ -23508,6 +24620,9 @@
               "value": "0",
               "type": "Number",
               "label": "Joystick force (range: 0 to 1)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "JoystickForce"
             },
@@ -23515,6 +24630,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -23522,6 +24640,9 @@
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchIndex"
             }
@@ -23918,18 +25039,27 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "A",
               "type": "String",
               "label": "Button identifier",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ButtonIdentifier"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "TouchID",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -23937,6 +25067,9 @@
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TouchIndex"
             },
@@ -23944,6 +25077,9 @@
               "value": "",
               "type": "Boolean",
               "label": "Button released",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "IsReleased"
             },
@@ -23953,6 +25089,8 @@
               "unit": "Pixel",
               "label": "Triggering circle radius",
               "description": "This circle adds up to the object collision mask.",
+              "group": "",
+              "extraInformation": [],
               "name": "Radius"
             }
           ],
@@ -24141,6 +25279,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platform character behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -24150,12 +25290,16 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -24167,7 +25311,9 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
+              "description": "",
               "group": "Controls",
+              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -24277,6 +25423,8 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -24286,12 +25434,16 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Walk joystick",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -24303,7 +25455,9 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
+              "description": "",
               "group": "Controls",
+              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -24402,6 +25556,8 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -24411,12 +25567,16 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Walk joystick",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -24428,7 +25588,9 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
+              "description": "",
               "group": "Controls",
+              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -25360,6 +26522,8 @@
               "value": "",
               "type": "Behavior",
               "label": "3D capability",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Scene3D::Base3DBehavior"
               ],
@@ -25369,12 +26533,16 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Secondary",
               "type": "Choice",
               "label": "Camera joystick",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -25387,21 +26555,27 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
+              "description": "",
               "group": "Horizontal rotation",
+              "extraInformation": [],
               "name": "HorizontalRotationSpeedMax"
             },
             {
               "value": "360",
               "type": "Number",
               "label": "Rotation acceleration",
+              "description": "",
               "group": "Horizontal rotation",
+              "extraInformation": [],
               "name": "HorizontalRotationAcceleration"
             },
             {
               "value": "720",
               "type": "Number",
               "label": "Rotation deceleration",
+              "description": "",
               "group": "Horizontal rotation",
+              "extraInformation": [],
               "name": "HorizontalRotationDeceleration"
             },
             {
@@ -25409,21 +26583,27 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
+              "description": "",
               "group": "Vertical rotation",
+              "extraInformation": [],
               "name": "VerticalRotationSpeedMax"
             },
             {
               "value": "240",
               "type": "Number",
               "label": "Rotation acceleration",
+              "description": "",
               "group": "Vertical rotation",
+              "extraInformation": [],
               "name": "VerticalRotationAcceleration"
             },
             {
               "value": "480",
               "type": "Number",
               "label": "Rotation deceleration",
+              "description": "",
               "group": "Vertical rotation",
+              "extraInformation": [],
               "name": "VerticalRotationDeceleration"
             },
             {
@@ -25431,7 +26611,9 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Minimum angle",
+              "description": "",
               "group": "Vertical rotation",
+              "extraInformation": [],
               "name": "VerticalAngleMin"
             },
             {
@@ -25439,7 +26621,9 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Maximum angle",
+              "description": "",
               "group": "Vertical rotation",
+              "extraInformation": [],
               "name": "VerticalAngleMax"
             },
             {
@@ -25447,7 +26631,9 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Z position offset",
+              "description": "",
               "group": "Position",
+              "extraInformation": [],
               "name": "OffsetZ"
             },
             {
@@ -25455,6 +26641,9 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Z",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedZ"
             },
@@ -25463,6 +26652,9 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Y",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedY"
             }
@@ -25591,6 +26783,8 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics car",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCar3D"
               ],
@@ -25600,12 +26794,16 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Steer joystick",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -25617,6 +26815,7 @@
               "value": "Secondary",
               "type": "Choice",
               "label": "Speed joystick",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -25628,7 +26827,9 @@
               "value": "B",
               "type": "String",
               "label": "Hand brake button name",
+              "description": "",
               "group": "Controls",
+              "extraInformation": [],
               "name": "HandBrakeButton"
             }
           ],
@@ -26150,6 +27351,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Top-down movement behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "TopDownMovementBehavior::TopDownMovementBehavior"
               ],
@@ -26159,12 +27362,17 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Primary",
                 "Secondary"
@@ -26175,6 +27383,7 @@
               "value": "Analog",
               "type": "Choice",
               "label": "Stick mode",
+              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Analog",
@@ -27422,12 +28631,17 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "Primary",
                 "Secondary"
@@ -27439,6 +28653,8 @@
               "type": "Number",
               "label": "Dead zone radius (range: 0 to 1)",
               "description": "The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved)",
+              "group": "",
+              "extraInformation": [],
               "name": "DeadZoneRadius"
             },
             {
@@ -27446,6 +28662,7 @@
               "type": "String",
               "label": "",
               "description": "Only used by the scene editor.",
+              "group": "",
               "extraInformation": [
                 "Thumb"
               ],
@@ -27457,6 +28674,8 @@
               "type": "Number",
               "label": "",
               "description": "Only used by the scene editor.",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ThumbAnchorTarget"
             },
@@ -27465,6 +28684,7 @@
               "type": "Boolean",
               "label": "",
               "description": "Only used by the scene editor.",
+              "group": "",
               "extraInformation": [
                 "Thumb"
               ],
@@ -27476,6 +28696,8 @@
               "type": "String",
               "label": "",
               "description": "Only used by the scene editor.",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ParentOrigin"
             },
@@ -27483,6 +28705,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ShouldBeHiddenWhenReleased"
             }
@@ -29072,6 +30297,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -29082,14 +30309,18 @@
               "type": "Number",
               "unit": "Second",
               "label": "Coyote time duration",
+              "description": "",
               "group": "Coyote time",
+              "extraInformation": [],
               "name": "CoyoteTimeFrameDuration"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Can coyote jump",
+              "description": "",
               "group": "Coyote time",
+              "extraInformation": [],
               "hidden": true,
               "name": "CanCoyoteJump"
             },
@@ -29097,7 +30328,9 @@
               "value": "",
               "type": "Boolean",
               "label": "Was in the air",
+              "description": "",
               "group": "Coyote time",
+              "extraInformation": [],
               "hidden": true,
               "name": "WasInTheAir"
             },
@@ -29105,21 +30338,27 @@
               "value": "1",
               "type": "Number",
               "label": "Number of air jumps",
+              "description": "",
               "group": "Air jump",
+              "extraInformation": [],
               "name": "AirJumpCountMaximum"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Floor jumps count as air jumps",
+              "description": "",
               "group": "Air jump",
+              "extraInformation": [],
               "name": "AreFloorJumpCountedAsAirJump"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
               "group": "Air jump",
+              "extraInformation": [],
               "hidden": true,
               "name": "AirJumpCount"
             },
@@ -29127,7 +30366,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
               "group": "Air jump",
+              "extraInformation": [],
               "hidden": true,
               "name": "WasJumpKeyReleased"
             }
@@ -31739,6 +32980,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -31748,6 +32991,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character configuration stack",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "AdvancedJump::PlatformerConfigurationStack"
               ],
@@ -31758,7 +33003,9 @@
               "type": "Number",
               "unit": "Second",
               "label": "Jump detection time frame",
+              "description": "",
               "group": "Wall jump",
+              "extraInformation": [],
               "name": "JumpTimeFrame"
             },
             {
@@ -31766,7 +33013,9 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Side speed",
+              "description": "",
               "group": "Wall jump",
+              "extraInformation": [],
               "name": "WallJumpSpeedX"
             },
             {
@@ -31774,7 +33023,9 @@
               "type": "Number",
               "unit": "PixelAcceleration",
               "label": "Side acceleration",
+              "description": "",
               "group": "Wall jump",
+              "extraInformation": [],
               "name": "WallJumpAccelerationX"
             },
             {
@@ -31782,7 +33033,9 @@
               "type": "Number",
               "unit": "Second",
               "label": "Side speed sustain time",
+              "description": "",
               "group": "Wall jump",
+              "extraInformation": [],
               "name": "SideSpeedSustainTime"
             },
             {
@@ -31790,7 +33043,9 @@
               "type": "Number",
               "unit": "PixelAcceleration",
               "label": "Gravity",
+              "description": "",
               "group": "Wall sliding",
+              "extraInformation": [],
               "name": "WallSlidingGravity"
             },
             {
@@ -31798,7 +33053,9 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Maximum falling speed",
+              "description": "",
               "group": "Wall sliding",
+              "extraInformation": [],
               "name": "WallSlidingMaxFallingSpeed"
             },
             {
@@ -31806,7 +33063,9 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Impact speed absorption",
+              "description": "",
               "group": "Wall sliding",
+              "extraInformation": [],
               "name": "WallSlidingSpeedAbsorption"
             },
             {
@@ -31814,20 +33073,27 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Minimal falling speed",
+              "description": "",
               "group": "Wall sliding",
+              "extraInformation": [],
               "name": "WallSlidingFallingSpeedMin"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Keep sliding without holding a key",
+              "description": "",
               "group": "Wall sliding",
+              "extraInformation": [],
               "name": "AutomaticSliding"
             },
             {
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "PreviousX"
             },
@@ -31835,6 +33101,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "IsAgainstWall"
             },
@@ -31842,6 +33111,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "WasLeftOrRightPressed"
             },
@@ -31849,6 +33121,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "IsWallJumping"
             },
@@ -31856,6 +33131,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "IsJumpingLeft"
             },
@@ -31863,6 +33141,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "WasInTheAir"
             },
@@ -31870,6 +33151,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "HasJustWallJump"
             },
@@ -31877,6 +33161,9 @@
               "value": "true",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "MovedAwayFromTheWall"
             }
@@ -32205,6 +33492,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -32214,6 +33503,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character configuration stack",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "AdvancedJump::PlatformerConfigurationStack"
               ],
@@ -32224,6 +33515,9 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Maximum falling speed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DiveMaxFallingSpeed"
             },
             {
@@ -32231,6 +33525,9 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Initial falling speed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DiveInitialFallingSpeed"
             },
             {
@@ -32238,12 +33535,18 @@
               "type": "Number",
               "unit": "PixelAcceleration",
               "label": "Gravity",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DiveGravity"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "IsDiving"
             }
@@ -33318,6 +34621,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -33327,6 +34632,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer charcacter configuration stack",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "AdvancedJump::PlatformerConfigurationStack"
               ],
@@ -33336,65 +34643,90 @@
               "value": "500",
               "type": "Number",
               "label": "Initial speed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DashInitialSpeed"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Sustain minimum duration",
+              "description": "",
               "group": "Sustain",
+              "extraInformation": [],
               "name": "DashSustainDurationMin"
             },
             {
               "value": "0.25",
               "type": "Number",
               "label": "Sustain maxiumum duration",
+              "description": "",
               "group": "Sustain",
+              "extraInformation": [],
               "name": "DashSustainDurationMax"
             },
             {
               "value": "1500",
               "type": "Number",
               "label": "Sustain acceleration",
+              "description": "",
               "group": "Sustain",
+              "extraInformation": [],
               "name": "DashSustainAcceleration"
             },
             {
               "value": "750",
               "type": "Number",
               "label": "Sustain maxiumum speed",
+              "description": "",
               "group": "Sustain",
+              "extraInformation": [],
               "name": "DashSustainSpeedMax"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Sustain gravity",
+              "description": "",
               "group": "Sustain",
+              "extraInformation": [],
               "name": "DashSustainGravity"
             },
             {
               "value": "3000",
               "type": "Number",
               "label": "Decceleration",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DashDecceleration"
             },
             {
               "value": "1000",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DashGravity"
             },
             {
               "value": "0.25",
               "type": "Number",
               "label": "Cool down duration",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "CoolDownDuration"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "LastDirectionIsLeft"
             },
@@ -33402,6 +34734,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "DashKeyIsPressed"
             },
@@ -33409,6 +34744,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "IsSustainning"
             },
@@ -33416,6 +34754,9 @@
               "value": "true",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "CanDash"
             }
@@ -34066,6 +35407,8 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -35776,6 +37119,8 @@
               "unit": "Second",
               "label": "Lifetime",
               "description": "Use \"0\" to ignore this property.",
+              "group": "",
+              "extraInformation": [],
               "name": "MaxLifetime"
             },
             {
@@ -35784,6 +37129,8 @@
               "unit": "Pixel",
               "label": "Max distance from starting position",
               "description": "Use \"0\" to ignore this property.",
+              "group": "",
+              "extraInformation": [],
               "name": "MaxDistanceFromStartingPosition"
             },
             {
@@ -35792,6 +37139,8 @@
               "unit": "PixelSpeed",
               "label": "Max speed",
               "description": "Speed from object forces will not exceed this value. Use \"0\" to ignore this property.",
+              "group": "",
+              "extraInformation": [],
               "name": "MaxSpeed"
             },
             {
@@ -35800,6 +37149,8 @@
               "unit": "PixelSpeed",
               "label": "",
               "description": "Speed from object forces will not go below this value. Use \"0\" to ignore this property.",
+              "group": "",
+              "extraInformation": [],
               "name": "MinSpeed"
             },
             {
@@ -35808,6 +37159,8 @@
               "unit": "PixelAcceleration",
               "label": "Acceleration",
               "description": "Negative acceleration can be used to stop a projectile.",
+              "group": "",
+              "extraInformation": [],
               "name": "Acceleration"
             },
             {
@@ -35816,18 +37169,26 @@
               "unit": "PixelSpeed",
               "label": "Starting speed",
               "description": "Object will move in the direction it is facing when it is created. Use \"0\" to ignore this property.",
+              "group": "",
+              "extraInformation": [],
               "name": "StartingSpeed"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Delete when lifetime is exceeded",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DeleteWhenLifetimeExceeded"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Delete when distance from starting position is exceeded",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "DeleteWhenDistanceExceeded"
             }
           ],
@@ -40572,12 +41933,17 @@
               "unit": "Second",
               "label": "Firing cooldown",
               "description": "Objects cannot shoot while firing cooldown is active.",
+              "group": "",
+              "extraInformation": [],
               "name": "FireCooldown"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "HasJustFired"
             },
@@ -40585,6 +41951,9 @@
               "value": "true",
               "type": "Boolean",
               "label": "Rotate bullets to match their trajectory",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "name": "RotateBullet"
             },
             {
@@ -40594,6 +41963,7 @@
               "label": "Firing arc",
               "description": "Multi-Fire bullets will be evenly spaced inside the firing arc",
               "group": "Multi-Fire",
+              "extraInformation": [],
               "name": "FiringArc"
             },
             {
@@ -40602,6 +41972,7 @@
               "label": "Number of bullets created at once",
               "description": "Multi-Fire bullets will be evenly spaced inside the firing arc",
               "group": "Multi-Fire",
+              "extraInformation": [],
               "name": "BulletQuantity"
             },
             {
@@ -40611,6 +41982,7 @@
               "label": "Angle variance",
               "description": "Make imperfect aim (between 0 and 180 degrees).",
               "group": "Firing variance",
+              "extraInformation": [],
               "advanced": true,
               "name": "AngleVariance"
             },
@@ -40621,6 +41993,7 @@
               "label": "Bullet speed variance",
               "description": "Bullet speed will be adjusted by a random value within this range.",
               "group": "Firing variance",
+              "extraInformation": [],
               "advanced": true,
               "name": "BulletSpeedVariance"
             },
@@ -40628,6 +42001,9 @@
               "value": "0",
               "type": "Number",
               "label": "Ammo quantity (current)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "AmmoQuantity"
             },
@@ -40637,6 +42013,7 @@
               "label": "Shots per reload ",
               "description": "Use 0 to disable reloading.",
               "group": "Reload",
+              "extraInformation": [],
               "advanced": true,
               "name": "ShotsPerReload"
             },
@@ -40647,6 +42024,7 @@
               "label": "Reloading duration",
               "description": "Objects cannot shoot while reloading is in progress.",
               "group": "Reload",
+              "extraInformation": [],
               "advanced": true,
               "name": "ReloadDuration"
             },
@@ -40654,7 +42032,9 @@
               "value": "0",
               "type": "Number",
               "label": "Max ammo ",
+              "description": "",
               "group": "Ammo",
+              "extraInformation": [],
               "advanced": true,
               "name": "MaxAmmo"
             },
@@ -40662,6 +42042,9 @@
               "value": "0",
               "type": "Number",
               "label": "Shots before next reload",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ShotsBeforeNextReload"
             },
@@ -40670,6 +42053,8 @@
               "type": "Number",
               "label": "Total shots fired",
               "description": "Regardless of how many bullets are created, only 1 shot will be counted per frame",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TotalShotsFired"
             },
@@ -40677,6 +42062,9 @@
               "value": "0",
               "type": "Number",
               "label": "Total bullets created",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TotalBulletsCreated"
             },
@@ -40684,7 +42072,9 @@
               "value": "0",
               "type": "Number",
               "label": "Starting ammo",
+              "description": "",
               "group": "Ammo",
+              "extraInformation": [],
               "advanced": true,
               "name": "StartingAmmo"
             },
@@ -40692,6 +42082,9 @@
               "value": "0",
               "type": "Number",
               "label": "Total reloads completed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "TotalReloadsCompleted"
             },
@@ -40699,7 +42092,9 @@
               "value": "true",
               "type": "Boolean",
               "label": "Unlimited ammo",
+              "description": "",
               "group": "Ammo",
+              "extraInformation": [],
               "advanced": true,
               "name": "UnlimitedAmmo"
             },
@@ -40707,6 +42102,9 @@
               "value": "",
               "type": "Boolean",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "ReloadInProgress"
             },
@@ -40716,6 +42114,7 @@
               "label": "Heat increase per shot (between 0 and 1)",
               "description": " Object is overheated when Heat reaches 1.",
               "group": "Overheat",
+              "extraInformation": [],
               "advanced": true,
               "name": "HeatIncreasePerShot"
             },
@@ -40723,6 +42122,9 @@
               "value": "0",
               "type": "Number",
               "label": "Heat level (Range: 0 to 1)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "HeatLevel"
             },
@@ -40730,7 +42132,9 @@
               "value": "true",
               "type": "Boolean",
               "label": "Reload automatically",
+              "description": "",
               "group": "Reload",
+              "extraInformation": [],
               "advanced": true,
               "name": "AutomaticReloading"
             },
@@ -40741,6 +42145,7 @@
               "label": "Overheat duration",
               "description": "Object cannot shoot while overheat duration is active.",
               "group": "Overheat",
+              "extraInformation": [],
               "advanced": true,
               "name": "OverheatDuration"
             },
@@ -40748,7 +42153,9 @@
               "value": "0.1",
               "type": "Number",
               "label": "Linear cooling rate (per second)",
+              "description": "",
               "group": "Overheat",
+              "extraInformation": [],
               "advanced": true,
               "name": "LinearCoolingRate"
             },
@@ -40771,6 +42178,7 @@
               "label": "Layer the bullets are created on",
               "description": "Base layer by default.",
               "group": "Shooting configuration",
+              "extraInformation": [],
               "hidden": true,
               "name": "BulletLayer"
             },
@@ -40778,6 +42186,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "RandomizedAngle"
             }
@@ -42103,7 +43514,9 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Radius of the movement on X axis",
+              "description": "",
               "group": "Ellipse",
+              "extraInformation": [],
               "name": "RadiusX"
             },
             {
@@ -42111,7 +43524,9 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Radius of the movement on Y axis",
+              "description": "",
               "group": "Ellipse",
+              "extraInformation": [],
               "name": "RadiusY"
             },
             {
@@ -42119,14 +43534,18 @@
               "type": "Number",
               "unit": "Second",
               "label": "Loop duration",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "LoopDuration"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Turn left",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "InitialTurningLeft"
             },
             {
@@ -42134,14 +43553,18 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Initial direction",
+              "description": "",
               "group": "Speed",
+              "extraInformation": [],
               "name": "InitialDirectionAngle"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Rotate",
+              "description": "",
               "group": "Rotation",
+              "extraInformation": [],
               "name": "ShouldRotate"
             },
             {
@@ -42149,13 +43572,18 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Rotation offset",
+              "description": "",
               "group": "Rotation",
+              "extraInformation": [],
               "name": "RotationOffset"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "CenterX"
             },
@@ -42163,6 +43591,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "CenterY"
             },
@@ -42170,6 +43601,9 @@
               "value": "0",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "MovementAngle"
             },
@@ -42177,6 +43611,9 @@
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "OldX"
             },
@@ -42184,650 +43621,11 @@
               "value": "",
               "type": "Number",
               "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
               "hidden": true,
               "name": "OldY"
-            }
-          ],
-          "sharedPropertyDescriptors": []
-        }
-      ],
-      "eventsBasedObjects": []
-    },
-    {
-      "author": "D8H",
-      "category": "Movement",
-      "extensionNamespace": "",
-      "fullName": "Stick objects to others",
-      "gdevelopVersion": ">=5.5.222",
-      "helpPath": "",
-      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXN0aWNrZXItb3V0bGluZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik01LjUgMkMzLjYgMiAyIDMuNiAyIDUuNVYxOC41QzIgMjAuNCAzLjYgMjIgNS41IDIySDE2TDIyIDE2VjUuNUMyMiAzLjYgMjAuNCAyIDE4LjUgMkg1LjVNNS44IDRIMTguM0MxOS4zIDQgMjAuMSA0LjggMjAuMSA1LjhWMTVIMTguNkMxNi43IDE1IDE1LjEgMTYuNiAxNS4xIDE4LjVWMjBINS44QzQuOCAyMCA0IDE5LjIgNCAxOC4yVjUuOEM0IDQuOCA0LjggNCA1LjggNCIgLz48L3N2Zz4=",
-      "name": "Sticker",
-      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/sticker-outline.svg",
-      "shortDescription": "Make objects follow the position and rotation of the object they are stuck to.",
-      "version": "0.5.3",
-      "description": [
-        "This extension can be useful to:",
-        "- Stick accessories to moving objects",
-        "- Animate a skeleton",
-        "- Delete an object with another one",
-        "",
-        "An example allows to check it out ([open the project online](https://editor.gdevelop.io/?project=example://stick-objects))."
-      ],
-      "origin": {
-        "identifier": "Sticker",
-        "name": "gdevelop-extension-store"
-      },
-      "tags": [
-        "sticker",
-        "stick",
-        "follow",
-        "skeleton",
-        "joint",
-        "pin",
-        "bind",
-        "glue",
-        "tie",
-        "attach",
-        "hold",
-        "paste",
-        "wear"
-      ],
-      "authorIds": [
-        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
-      ],
-      "dependencies": [],
-      "globalVariables": [],
-      "sceneVariables": [],
-      "eventsFunctions": [
-        {
-          "description": "Define helper classes JavaScript code.",
-          "fullName": "Define helper classes",
-          "functionType": "Action",
-          "name": "DefineHelperClasses",
-          "private": true,
-          "sentence": "Define helper classes JavaScript code",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::JsCode",
-              "inlineCode": [
-                "if (gdjs._stickerExtension) {",
-                "    return;",
-                "}",
-                "",
-                "// Unstick from deleted objects.",
-                "gdjs.registerObjectDeletedFromSceneCallback(function (runtimeScene, deletedObject) {",
-                "    const extension = runtimeScene._stickerExtension;",
-                "    if (!extension) {",
-                "        return;",
-                "    }",
-                "    const allStickers = runtimeScene._stickerExtension.allStickers;",
-                "    for (const behavior of allStickers) {",
-                "        const sticker = behavior._sticker;",
-                "        if (sticker.isStuckTo(deletedObject)) {",
-                "            if (behavior._getIsDestroyedWithParent()) {",
-                "                behavior.owner.deleteFromScene(runtimeScene);",
-                "            }",
-                "            sticker.unstick();",
-                "        }",
-                "    }",
-                "});",
-                "",
-                "class Sticker {",
-                "    /** @type {gdjs.RuntimeBehavior} */",
-                "    behavior;",
-                "    /** @type {gdjs.RuntimeObject | null} */",
-                "    basisObject;",
-                "    followingDoneThisFrame = false;",
-                "    relativeX = 0;",
-                "    relativeY = 0;",
-                "    relativeAngle = 0;",
-                "    relativeRotatedX = 0;",
-                "    relativeRotatedY = 0;",
-                "    basisOldX = 0;",
-                "    basisOldY = 0;",
-                "    basisOldAngle = 0;",
-                "    basisOldWidth = 0;",
-                "    basisOldHeight = 0;",
-                "    basisOldCenterXInScene = 0;",
-                "    basisOldCenterYInScene = 0;",
-                "",
-                "    /**",
-                "     * @param {gdjs.RuntimeBehavior} behavior",
-                "     */",
-                "    constructor(behavior) {",
-                "        this.behavior = behavior;",
-                "    }",
-                "",
-                "    /**",
-                "     * @param {gdjs.RuntimeObject} basisObject",
-                "     */",
-                "    isStuckTo(basisObject) {",
-                "        return this.basisObject === basisObject;",
-                "    }",
-                "",
-                "    /**",
-                "     * @param {gdjs.RuntimeObject} basisObject",
-                "     */",
-                "    stickTo(basisObject) {",
-                "        this.basisObject = basisObject;",
-                "        this.updateOldCoordinates();",
-                "        this.updateRelativeCoordinates();",
-                "    }",
-                "",
-                "    unstick() {",
-                "        this.basisObject = null;",
-                "    }",
-                "",
-                "    onStepPreEvents() {",
-                "        this.followingDoneThisFrame = false;",
-                "    }",
-                "",
-                "    /**",
-                "     * Update the coordinates in the basisObject basis.",
-                "     * ",
-                "     * It uses the basisObject coordinates from the previous frame.",
-                "     * This way, the sticker can move relatively to it and still",
-                "     * follow basisObject.",
-                "     * ",
-                "     * @param {gdjs.RuntimeObject} basisObject",
-                "     */",
-                "    updateRelativeCoordinates() {",
-                "        const object = this.behavior.owner;",
-                "",
-                "        // Update relative coordinates",
-                "        this.relativeX = object.getX() - this.basisOldX;",
-                "        this.relativeY = object.getY() - this.basisOldY;",
-                "        if (!this.behavior._getOnlyFollowPosition()) {",
-                "            this.relativeAngle = object.getAngle() - this.basisOldAngle;",
-                "            this.relativeWidth = object.getWidth() / this.basisOldWidth;",
-                "            this.relativeHeight = object.getHeight() / this.basisOldHeight;",
-                "            const deltaX = object.getCenterXInScene() - this.basisOldCenterXInScene;",
-                "            const deltaY = object.getCenterYInScene() - this.basisOldCenterYInScene;",
-                "            const angle = this.basisOldAngle * Math.PI / 180;",
-                "            const cosA = Math.cos(angle);",
-                "            const sinA = Math.sin(angle);",
-                "            this.relativeRotatedX = (deltaX * cosA + deltaY * sinA) / this.basisOldWidth;",
-                "            this.relativeRotatedY = (-deltaX * sinA + deltaY * cosA) / this.basisOldHeight;",
-                "",
-                "            // Save initial values to avoid calculus and rounding errors",
-                "            this.basisOriginalWidth = this.basisObject.getWidth();",
-                "            this.basisOriginalHeight = this.basisObject.getHeight();",
-                "            this.basisOriginalAngle = this.basisObject.getAngle();",
-                "        }",
-                "    }",
-                "",
-                "    /**",
-                "     * Copy the coordinates to use it the next frame.",
-                "     */",
-                "    updateOldCoordinates() {",
-                "        const object = this.behavior.owner;",
-                "",
-                "        this.ownerOldX = object.getX();",
-                "        this.ownerOldY = object.getY();",
-                "",
-                "        this.basisOldX = this.basisObject.getX();",
-                "        this.basisOldY = this.basisObject.getY();",
-                "",
-                "        if (!this.behavior._getOnlyFollowPosition()) {",
-                "            this.ownerOldAngle = object.getAngle();",
-                "            this.ownerOldWidth = object.getWidth();",
-                "            this.ownerOldHeight = object.getHeight();",
-                "",
-                "            this.basisOldAngle = this.basisObject.getAngle();",
-                "            this.basisOldWidth = this.basisObject.getWidth();",
-                "            this.basisOldHeight = this.basisObject.getHeight();",
-                "            this.basisOldCenterXInScene = this.basisObject.getCenterXInScene();",
-                "            this.basisOldCenterYInScene = this.basisObject.getCenterYInScene();",
-                "        }",
-                "    }",
-                "",
-                "    /**",
-                "     * Follow the basisObject (called in doStepPostEvents).",
-                "     * ",
-                "     * This method is also called by children to ensure",
-                "     * parents are updated first.",
-                "     */",
-                "    followBasisObject() {",
-                "        if (this.followingDoneThisFrame) {",
-                "            return;",
-                "        }",
-                "        this.followingDoneThisFrame = true;",
-                "        const basisObject = this.basisObject;",
-                "        if (!basisObject) {",
-                "            return;",
-                "        }",
-                "        // If the behavior on the basis object has a different name,",
-                "        // the objects will still follow their basis objects",
-                "        // but frame delays could happen.",
-                "        const behaviorName = this.behavior.getName();",
-                "        if (basisObject.hasBehavior(behaviorName)) {",
-                "            const basisBehavior = basisObject.getBehavior(behaviorName);",
-                "            if (basisBehavior.type === this.behavior.type) {",
-                "                // Follow parents 1st to avoid frame delays",
-                "                basisBehavior._sticker.followBasisObject();",
-                "            }",
-                "        }",
-                "        if (this.behavior._getOnlyFollowPosition()) {",
-                "            this.followPosition();",
-                "        } else {",
-                "            this.followTransformation();",
-                "        }",
-                "        this.updateOldCoordinates();",
-                "    }",
-                "",
-                "    followPosition() {",
-                "        const object = this.behavior.owner;",
-                "        const basisObject = this.basisObject;",
-                "        if (!basisObject) {",
-                "            return;",
-                "        }",
-                "        if (object.getX() !== this.ownerOldX",
-                "            || object.getY() !== this.ownerOldY) {",
-                "            this.updateRelativeCoordinates();",
-                "        }",
-                "        if (this.basisOldX !== basisObject.getX()",
-                "            || this.basisOldY !== basisObject.getY()) {",
-                "            object.setPosition(",
-                "                basisObject.getX() + this.relativeX,",
-                "                basisObject.getY() + this.relativeY);",
-                "        }",
-                "    }",
-                "",
-                "    followTransformation() {",
-                "        const object = this.behavior.owner;",
-                "        const basisObject = this.basisObject;",
-                "        if (!basisObject) {",
-                "            return;",
-                "        }",
-                "        if (object.getX() !== this.ownerOldX",
-                "            || object.getY() !== this.ownerOldY",
-                "            || object.getAngle() !== this.ownerOldAngle",
-                "            || object.getWidth() !== this.ownerOldWidth",
-                "            || object.getHeight() !== this.ownerOldHeight) {",
-                "            this.updateRelativeCoordinates();",
-                "        }",
-                "        if (this.basisOldAngle !== this.basisObject.getAngle()",
-                "            || this.basisOldWidth !== this.basisObject.getWidth()",
-                "            || this.basisOldHeight !== this.basisObject.getHeight()",
-                "            || this.basisOldCenterXInScene !== this.basisObject.getCenterXInScene()",
-                "            || this.basisOldCenterYInScene !== this.basisObject.getCenterYInScene()) {",
-                "            // Unproportional dimensions changes won't work as expected",
-                "            // if the object angle is not null but nothing more can be done",
-                "            // because there is no full affine transformation on objects.",
-                "            if (basisObject.getWidth() !== this.basisOriginalWidth) {",
-                "                object.setWidth(this.relativeWidth * basisObject.getWidth());",
-                "            }",
-                "            if (basisObject.getHeight() !== this.basisOriginalHeight) {",
-                "                object.setHeight(this.relativeHeight * basisObject.getHeight());",
-                "            }",
-                "            // Follow basisObject",
-                "            if (basisObject.getAngle() === this.basisOriginalAngle",
-                "                && this.basisOriginalAngle === 0) {",
-                "                if (basisObject.getWidth() === this.basisOriginalWidth",
-                "                    || basisObject.getHeight() === this.basisOriginalHeight) {",
-                "                    if (this.basisOldX !== basisObject.getX() ||",
-                "                        this.basisOldY !== basisObject.getY()) {",
-                "                        object.setPosition(",
-                "                            basisObject.getX() + this.relativeX,",
-                "                            basisObject.getY() + this.relativeY);",
-                "                    }",
-                "                } else {",
-                "                    object.setCenterPositionInScene(",
-                "                        basisObject.getCenterXInScene() + this.relativeRotatedX * basisObject.getWidth(),",
-                "                        basisObject.getCenterYInScene() + this.relativeRotatedY * basisObject.getHeight());",
-                "                }",
-                "            } else {",
-                "                object.setAngle(basisObject.getAngle() + this.relativeAngle);",
-                "",
-                "                const deltaX = this.relativeRotatedX * basisObject.getWidth();",
-                "                const deltaY = this.relativeRotatedY * basisObject.getHeight();",
-                "                const angle = -basisObject.getAngle() * Math.PI / 180;",
-                "                const cosA = Math.cos(angle);",
-                "                const sinA = Math.sin(angle);",
-                "                object.setX(",
-                "                    basisObject.getCenterXInScene() + object.getX() - object.getCenterXInScene()",
-                "                    + deltaX * cosA + deltaY * sinA);",
-                "                object.setY(",
-                "                    basisObject.getCenterYInScene() + object.getY() - object.getCenterYInScene()",
-                "                    - deltaX * sinA + deltaY * cosA);",
-                "            }",
-                "        }",
-                "    }",
-                "}",
-                "",
-                "gdjs._stickerExtension = {",
-                "    Sticker",
-                "}"
-              ],
-              "parameterObjects": "",
-              "useStrict": true,
-              "eventsSheetExpanded": true
-            }
-          ],
-          "parameters": [],
-          "objectGroups": []
-        },
-        {
-          "description": "Check if the object is stuck to another object.",
-          "fullName": "Is stuck to another object",
-          "functionType": "Condition",
-          "name": "IsStuck",
-          "sentence": "_PARAM1_ is stuck to _PARAM3_",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::JsCode",
-              "inlineCode": [
-                "const stickerBehaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
-                "const stickerObjectsLists = eventsFunctionContext.getObjectsLists(\"Object\");",
-                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
-                "const basisObjectsLists = eventsFunctionContext.getObjectsLists(\"BasisObject\");",
-                "",
-                "eventsFunctionContext.returnValue = gdjs.evtTools.object.twoListsTest(",
-                "  (stickerObject, basisObject) => {",
-                "    const sticker = stickerObject.getBehavior(stickerBehaviorName)._sticker;",
-                "    return sticker.isStuckTo(basisObject);",
-                "  },",
-                "  stickerObjectsLists,",
-                "  basisObjectsLists,",
-                "  false",
-                ");"
-              ],
-              "parameterObjects": "",
-              "useStrict": true,
-              "eventsSheetExpanded": true
-            }
-          ],
-          "parameters": [
-            {
-              "description": "Sticker",
-              "name": "Object",
-              "type": "objectList"
-            },
-            {
-              "description": "Sticker behavior",
-              "name": "Behavior",
-              "supplementaryInformation": "Sticker::Sticker",
-              "type": "behavior"
-            },
-            {
-              "description": "Basis",
-              "name": "BasisObject",
-              "type": "objectList"
-            }
-          ],
-          "objectGroups": []
-        }
-      ],
-      "eventsBasedBehaviors": [
-        {
-          "description": "Stick the object to another. Use the action to stick the object, or unstick it later.",
-          "fullName": "Sticker",
-          "name": "Sticker",
-          "objectType": "",
-          "quickCustomizationVisibility": "hidden",
-          "eventsFunctions": [
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onCreated",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Sticker::DefineHelperClasses"
-                      },
-                      "parameters": [
-                        "",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const Sticker = gdjs._stickerExtension.Sticker;",
-                    "",
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "behavior._sticker = new Sticker(behavior);",
-                    "",
-                    "// Set up the scene sticker objects list - if not done already.",
-                    "runtimeScene._stickerExtension = runtimeScene._stickerExtension || {",
-                    "    allStickers: new Set(),",
-                    "};",
-                    "// Register this object as a sticker.",
-                    "runtimeScene._stickerExtension.allStickers.add(behavior);",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "doStepPreEvents",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "behavior._sticker.onStepPreEvents();"
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": false
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "doStepPostEvents",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "behavior._sticker.followBasisObject();"
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Stick on another object.",
-              "fullName": "Stick",
-              "functionType": "Action",
-              "name": "Stick",
-              "sentence": "Stick _PARAM0_ to _PARAM2_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const object = objects[0];",
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const basisObjects = eventsFunctionContext.getObjects(\"BasisObject\");",
-                    "",
-                    "if (basisObjects.length === 0) return;",
-                    "// An object can stick to only one object.",
-                    "const basisObject = basisObjects[0];",
-                    "object.getBehavior(behaviorName)._sticker.stickTo(basisObject);",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Object to stick to",
-                  "name": "BasisObject",
-                  "type": "objectList"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Unstick from the object it was stuck to.",
-              "fullName": "Unstick",
-              "functionType": "Action",
-              "name": "Unstick",
-              "sentence": "Unstick _PARAM0_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const object = objects[0];",
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "object.getBehavior(behaviorName)._sticker.unstick();",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onDestroy",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "runtimeScene._stickerExtension.allStickers.delete(behavior._sticker);",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            }
-          ],
-          "propertyDescriptors": [
-            {
-              "value": "",
-              "type": "Boolean",
-              "label": "Only follow the position",
-              "name": "OnlyFollowPosition"
-            },
-            {
-              "value": "",
-              "type": "Boolean",
-              "label": "Destroy when the object it's stuck on is destroyed",
-              "name": "IsDestroyedWithParent"
             }
           ],
           "sharedPropertyDescriptors": []
