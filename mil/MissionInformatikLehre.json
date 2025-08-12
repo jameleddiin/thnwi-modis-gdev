@@ -24284,7 +24284,7 @@
       "title": "1. Lehrjahr: Basisjahr ausserhalb des Betriebs",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -24292,8 +24292,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.4005715756958448,
+        "snap": true,
+        "zoomFactor": 0.45739599665251934,
         "windowMask": false
       },
       "objectsGroups": [
@@ -26198,6 +26198,22 @@
           "x": 928,
           "y": -576,
           "zOrder": 95,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Test",
+          "persistentUuid": "9bec48cc-c2e4-4a6a-b4e2-b59cfa6e50d6",
+          "width": 0,
+          "x": 1558,
+          "y": -268,
+          "zOrder": 96,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28169,6 +28185,48 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Test",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -28200,6 +28258,9 @@
           },
           {
             "objectName": "ukCounterText"
+          },
+          {
+            "objectName": "Test"
           },
           {
             "objectName": "levelText"
@@ -28416,6 +28477,26 @@
               "parameters": [
                 "",
                 "\"CountDownTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "totalUkCount",
+                "=",
+                "8"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "totalModuleCount",
+                "=",
+                "8"
               ]
             }
           ],
@@ -31523,8 +31604,45 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "ukCounter",
+                "=",
+                "totalUkCount"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "moduleCounter",
+                "=",
+                "totalModuleCount"
+              ]
             }
           ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Test",
+                "Text",
+                "=",
+                "\"alle gesamelt\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
           "actions": []
         }
       ],
