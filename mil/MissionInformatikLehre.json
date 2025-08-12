@@ -2653,6 +2653,22 @@
         "name": "C:\\Users\\User\\Downloads\\Büro 1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Büro 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Büro 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Teppichboden-Blau 5x1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Teppichboden-Blau 5x1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -24025,7 +24041,7 @@
       "title": "1. Lehrjahr: Basisjahr ausserhalb des Betriebs",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -24033,8 +24049,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.33936327385976894,
+        "snap": false,
+        "zoomFactor": 0.4573959966525189,
         "windowMask": false
       },
       "objectsGroups": [
@@ -27614,7 +27630,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "C:\\Users\\User\\Downloads\\Büro 1.png",
+                      "image": "assets\\Büro 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -27742,7 +27758,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "C:\\Users\\User\\Downloads\\Teppichboden-Blau 5x1.png",
+                      "image": "assets\\Teppichboden-Blau 5x1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31379,7 +31395,7 @@
           "isLocked": false,
           "name": "Popup",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
