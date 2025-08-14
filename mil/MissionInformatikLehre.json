@@ -2671,7 +2671,7 @@
         "userAdded": false
       },
       {
-        "file": "C:/Users/User/Downloads/Teppichboden-Blau 5x1.png",
+        "file": "assets/Teppichboden-Blau 5x1.png",
         "kind": "image",
         "metadata": "",
         "name": "C:\\Users\\User\\Downloads\\Teppichboden-Blau 5x1.png",
@@ -2687,7 +2687,7 @@
         "userAdded": false
       },
       {
-        "file": "C:/Users/User/Downloads/Teppichboden-Blau.png",
+        "file": "assets/Teppichboden-Blau.png",
         "kind": "image",
         "metadata": "",
         "name": "C:\\Users\\User\\Downloads\\Teppichboden-Blau.png",
@@ -2707,6 +2707,62 @@
         "kind": "image",
         "metadata": "",
         "name": "assets\\Büro 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Guter-Steinbock-R.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Guter-Steinbock-R.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Guter-Steinbock-L.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Guter-Steinbock-L.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Bretter.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Bretter.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Bretter 2x1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Bretter 2x1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Bretter hell 2x1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Bretter hell 2x1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Bretter hell.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Bretter hell.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Teppichboden-Blau 10x1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Teppichboden-Blau 10x1.png",
         "smoothed": true,
         "userAdded": false
       }
@@ -4810,7 +4866,7 @@
           "name": "EllipseMovement",
           "type": "EllipseMovement::EllipseMovement",
           "RadiusX": 0,
-          "RadiusY": 12,
+          "RadiusY": -12,
           "LoopDuration": 2,
           "InitialTurningLeft": false,
           "InitialDirectionAngle": 0,
@@ -16994,16 +17050,16 @@
       "title": "1. Lehrjahr: Basisjahr ausserhalb des Betriebs",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 64,
+        "gridHeight": 64,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.5769175655615971,
+        "snap": true,
+        "zoomFactor": 0.44247557423680284,
         "windowMask": false
       },
       "objectsGroups": [
@@ -24284,7 +24340,7 @@
       "title": "1. Lehrjahr: Basisjahr ausserhalb des Betriebs",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -24292,7 +24348,7 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
+        "snap": false,
         "zoomFactor": 0.45739599665251934,
         "windowMask": false
       },
@@ -27949,7 +28005,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "C:\\Users\\User\\Downloads\\Teppichboden-Blau 10x1.png",
+                      "image": "assets\\Teppichboden-Blau 10x1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28018,7 +28074,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "C:\\Users\\User\\Downloads\\Teppichboden-Blau 5x1.png",
+                      "image": "assets\\Teppichboden-Blau 10x1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28038,11 +28094,11 @@
                             "y": 0
                           },
                           {
-                            "x": 320,
+                            "x": 640,
                             "y": 0
                           },
                           {
-                            "x": 320,
+                            "x": 640,
                             "y": 64
                           },
                           {
@@ -40073,7 +40129,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5769175655616254,
+        "zoomFactor": 0.472819540637037,
         "windowMask": false
       },
       "objectsGroups": [
@@ -40161,6 +40217,17 @@
             },
             {
               "name": "Button4"
+            }
+          ]
+        },
+        {
+          "name": "staticEnemies",
+          "objects": [
+            {
+              "name": "StaticCapricorn_L"
+            },
+            {
+              "name": "StaticCapricorn_R"
             }
           ]
         }
@@ -40309,8 +40376,8 @@
           "name": "player",
           "persistentUuid": "0973f660-2330-4117-bbcf-08d60b66ed75",
           "width": 46.58407079646018,
-          "x": -928,
-          "y": -864,
+          "x": -887,
+          "y": 575,
           "zOrder": 900,
           "numberProperties": [],
           "stringProperties": [],
@@ -42681,23 +42748,6 @@
           "height": 64,
           "keepRatio": true,
           "layer": "",
-          "name": "SnowyGranite",
-          "persistentUuid": "6b71b680-def5-4cf0-a702-c9cc6e02cf17",
-          "width": 64,
-          "x": -311,
-          "y": 383,
-          "zOrder": 1004,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
           "name": "Capricorn",
           "persistentUuid": "f31c9b22-0f3a-4fca-aa09-01f2fb89723a",
           "width": 64,
@@ -42769,40 +42819,6 @@
           "width": 64,
           "x": 905,
           "y": -129,
-          "zOrder": 1009,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "SnowyGranite",
-          "persistentUuid": "15c8168c-06d5-4f52-aaee-9981ff560ea2",
-          "width": 64,
-          "x": 1033,
-          "y": -65,
-          "zOrder": 1009,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "SnowyGranite",
-          "persistentUuid": "93c5dfb6-58d3-4fc7-aad2-4d0617c24209",
-          "width": 64,
-          "x": 1097,
-          "y": -65,
           "zOrder": 1009,
           "numberProperties": [],
           "stringProperties": [],
@@ -43096,23 +43112,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "SnowyGranite",
-          "persistentUuid": "51a6c5c4-84e1-444c-803e-4d908175909e",
-          "width": 64,
-          "x": 1737,
-          "y": 511,
-          "zOrder": 1014,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "depth": 0,
           "height": 64,
           "keepRatio": true,
@@ -43259,22 +43258,6 @@
           "x": 1929,
           "y": -833,
           "zOrder": 1015,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "SnowyGranite_moving_horizontal",
-          "persistentUuid": "f0239ce1-e5df-41ed-92f8-1597df151b37",
-          "width": 0,
-          "x": 1545,
-          "y": -641,
-          "zOrder": 1016,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -43967,23 +43950,6 @@
           "keepRatio": true,
           "layer": "",
           "name": "Granite",
-          "persistentUuid": "20a8b4b8-c7a2-4779-8de3-6576f0cb0eda",
-          "width": 64,
-          "x": -247,
-          "y": 447,
-          "zOrder": 113,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Granite",
           "persistentUuid": "d3041320-9307-4045-bce1-5bb383aba7d8",
           "width": 64,
           "x": -183,
@@ -44141,7 +44107,7 @@
           "width": 64,
           "x": -759,
           "y": -257,
-          "zOrder": 1015,
+          "zOrder": 1030,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -44289,23 +44255,6 @@
           "height": 64,
           "keepRatio": true,
           "layer": "",
-          "name": "SnowyGranite_moving_vertical",
-          "persistentUuid": "332c5d82-b9ac-4e0b-93fc-c9f9839764a5",
-          "width": 64,
-          "x": -247,
-          "y": -577,
-          "zOrder": 1017,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
           "name": "SnowyGranite",
           "persistentUuid": "d39f2a3a-eb0b-493a-91e6-77d38a4c8095",
           "width": 64,
@@ -44431,23 +44380,6 @@
           "x": -375,
           "y": 703,
           "zOrder": 1005,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Capricorn",
-          "persistentUuid": "499c9891-c0f9-40d4-aef2-2a3f0a200f85",
-          "width": 64,
-          "x": 1865,
-          "y": 127,
-          "zOrder": 113,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -44606,38 +44538,6 @@
           "keepRatio": true,
           "layer": "",
           "name": "RightArrow",
-          "persistentUuid": "1323f1d4-e1b2-47ea-b115-ef4c6e6aa686",
-          "width": 0,
-          "x": 1799,
-          "y": 141,
-          "zOrder": 1007,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "LeftArrow",
-          "persistentUuid": "c67221fe-b223-4f1d-ab63-07df9c0eba56",
-          "width": 0,
-          "x": 1915,
-          "y": 141,
-          "zOrder": 1007,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "RightArrow",
           "persistentUuid": "69224148-577f-4653-9fec-a640f5c39b4e",
           "width": 0,
           "x": 67,
@@ -44730,6 +44630,329 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_L",
+          "persistentUuid": "b31cf53e-987e-434f-9959-819443904291",
+          "width": 64,
+          "x": 1673,
+          "y": -129,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_L",
+          "persistentUuid": "f5a23a11-af01-4240-ae3a-7e9531497c0a",
+          "width": 64,
+          "x": 1865,
+          "y": -385,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_L",
+          "persistentUuid": "75b33ed3-d95f-46c8-93fa-323ff25470ce",
+          "width": 64,
+          "x": 9,
+          "y": -321,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_R",
+          "persistentUuid": "337730ee-81da-47af-9ad9-f6e720747742",
+          "width": 64,
+          "x": -311,
+          "y": -65,
+          "zOrder": 1019,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_R",
+          "persistentUuid": "39a137f0-a4f3-4ee5-8283-2b11dc971ddc",
+          "width": 64,
+          "x": -823,
+          "y": -321,
+          "zOrder": 1019,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_L",
+          "persistentUuid": "add1fcd5-2fa0-4dec-9ed8-390a886330ba",
+          "width": 64,
+          "x": 713,
+          "y": -769,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_L",
+          "persistentUuid": "734fd98e-fe4a-4760-b8c8-fa8de063cb71",
+          "width": 64,
+          "x": 393,
+          "y": 447,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StaticCapricorn_L",
+          "persistentUuid": "25966ee0-a744-4b08-b201-d93cffc28a85",
+          "width": 64,
+          "x": 137,
+          "y": 895,
+          "zOrder": 1018,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 325,
+          "customSize": true,
+          "depth": 1,
+          "height": 27,
+          "keepRatio": true,
+          "layer": "",
+          "name": "keyboard",
+          "persistentUuid": "60e677cd-2e54-4b96-ba28-1b3e328d0978",
+          "width": 59,
+          "x": 203,
+          "y": 854,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 325,
+          "customSize": true,
+          "depth": 1,
+          "height": 27,
+          "keepRatio": true,
+          "layer": "",
+          "name": "keyboard",
+          "persistentUuid": "a37d7efa-9089-4100-bed9-cd110e168695",
+          "width": 59,
+          "x": 1803,
+          "y": -307,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 325,
+          "customSize": true,
+          "depth": 1,
+          "height": 27,
+          "keepRatio": true,
+          "layer": "",
+          "name": "keyboard",
+          "persistentUuid": "ad58fb1d-c191-42b1-945f-98cfb81c57d1",
+          "width": 59,
+          "x": -501,
+          "y": 141,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wodden_panel",
+          "persistentUuid": "5fbbbacc-f749-4a49-83e9-c4a8045d0ef3",
+          "width": 64,
+          "x": 1033,
+          "y": -65,
+          "zOrder": 1020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wodden_panel",
+          "persistentUuid": "3d99e5f8-6811-4112-8ca2-3c8dcd2ab74b",
+          "width": 64,
+          "x": 1097,
+          "y": -65,
+          "zOrder": 1020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wodden_panel",
+          "persistentUuid": "de228463-5350-47ce-b8e4-dfe8f5539320",
+          "width": 64,
+          "x": -311,
+          "y": 383,
+          "zOrder": 1020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wodden_panel",
+          "persistentUuid": "0f073f1e-3d3f-4eb2-b95b-e30ddbb02e0b",
+          "width": 64,
+          "x": 649,
+          "y": 639,
+          "zOrder": 1020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wodden_panel",
+          "persistentUuid": "4ff20679-1437-4566-9bc3-07720b487c72",
+          "width": 64,
+          "x": 1737,
+          "y": 447,
+          "zOrder": 1020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WoddenPanel_moving_horizontal",
+          "persistentUuid": "1e3265be-51ea-4cc1-9cc5-e2fb2a07f681",
+          "width": 128,
+          "x": 1545,
+          "y": -641,
+          "zOrder": 1021,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WoddenPanel_moving_vertical",
+          "persistentUuid": "83a4722a-f5bb-4962-9a97-bdf81cc05056",
+          "width": 64,
+          "x": -247,
+          "y": -577,
+          "zOrder": 1022,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wodden_panel",
+          "persistentUuid": "8eabfcc7-f134-4b75-87ac-1e323a3a7813",
+          "width": 64,
+          "x": -759,
+          "y": -257,
+          "zOrder": 1023,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -44744,6 +44967,11 @@
               "name": "direction",
               "type": "string",
               "value": "left"
+            },
+            {
+              "name": "speed",
+              "type": "number",
+              "value": 150
             }
           ],
           "effects": [],
@@ -45006,6 +45234,11 @@
               "name": "direction",
               "type": "string",
               "value": "left"
+            },
+            {
+              "name": "speed",
+              "type": "number",
+              "value": 150
             }
           ],
           "effects": [],
@@ -45407,6 +45640,11 @@
               "name": "direction",
               "type": "string",
               "value": "left"
+            },
+            {
+              "name": "speed",
+              "type": "number",
+              "value": 150
             }
           ],
           "effects": [],
@@ -46872,6 +47110,11 @@
               "name": "direction",
               "type": "string",
               "value": "left"
+            },
+            {
+              "name": "speed",
+              "type": "number",
+              "value": 150
             }
           ],
           "effects": [],
@@ -46978,7 +47221,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "SnowyGranite_moving_horizontal",
+          "name": "WoddenPanel_moving_horizontal",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -47020,7 +47263,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\Granit mit Schnee 2x1.png",
+                      "image": "assets\\Bretter hell 2x1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47040,16 +47283,16 @@
                             "y": 0
                           },
                           {
-                            "x": 128,
+                            "x": 640,
                             "y": 0
                           },
                           {
-                            "x": 128,
-                            "y": 64
+                            "x": 640,
+                            "y": 70
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 70
                           }
                         ]
                       ]
@@ -47063,7 +47306,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "SnowyGranite_moving_vertical",
+          "name": "WoddenPanel_moving_vertical",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -47105,7 +47348,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\Granit mit Schnee.png",
+                      "image": "assets\\Bretter hell.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47130,11 +47373,463 @@
                           },
                           {
                             "x": 320,
-                            "y": 320
+                            "y": 70
                           },
                           {
                             "x": 0,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "StaticCapricorn_L",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "L",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Guter-Steinbock-L.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 18.5,
+                            "y": 137
+                          },
+                          {
+                            "x": 0,
+                            "y": 105
+                          },
+                          {
+                            "x": 10.5,
+                            "y": 88.5
+                          },
+                          {
+                            "x": 27.5,
+                            "y": 83
+                          },
+                          {
+                            "x": 39.5,
+                            "y": 62
+                          },
+                          {
+                            "x": 53,
+                            "y": 37
+                          },
+                          {
+                            "x": 63.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 86,
+                            "y": 0
+                          },
+                          {
+                            "x": 100,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 82,
+                            "y": 71
+                          },
+                          {
+                            "x": 116.5,
+                            "y": 70.5
+                          },
+                          {
+                            "x": 154.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 183.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 181.5,
+                            "y": 40.5
+                          },
+                          {
+                            "x": 168,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 192.5,
+                            "y": 102
+                          },
+                          {
+                            "x": 178,
+                            "y": 126
+                          },
+                          {
+                            "x": 161,
+                            "y": 134
+                          },
+                          {
+                            "x": 160,
+                            "y": 149
+                          },
+                          {
+                            "x": 196.5,
+                            "y": 150
+                          },
+                          {
+                            "x": 221.5,
+                            "y": 161
+                          },
+                          {
+                            "x": 241.5,
+                            "y": 183
+                          },
+                          {
+                            "x": 261.5,
+                            "y": 200.5
+                          },
+                          {
+                            "x": 273,
+                            "y": 213.5
+                          },
+                          {
+                            "x": 280,
+                            "y": 240.5
+                          },
+                          {
+                            "x": 260.5,
+                            "y": 241
+                          },
+                          {
+                            "x": 260,
+                            "y": 262.5
+                          },
+                          {
+                            "x": 229.5,
+                            "y": 282.5
+                          },
+                          {
+                            "x": 231.5,
                             "y": 320
+                          },
+                          {
+                            "x": 188,
+                            "y": 320
+                          },
+                          {
+                            "x": 186.5,
+                            "y": 292.5
+                          },
+                          {
+                            "x": 166.5,
+                            "y": 280.5
+                          },
+                          {
+                            "x": 143.5,
+                            "y": 289.5
+                          },
+                          {
+                            "x": 142,
+                            "y": 320
+                          },
+                          {
+                            "x": 108.5,
+                            "y": 320
+                          },
+                          {
+                            "x": 108,
+                            "y": 270.5
+                          },
+                          {
+                            "x": 98,
+                            "y": 280
+                          },
+                          {
+                            "x": 70,
+                            "y": 279
+                          },
+                          {
+                            "x": 59,
+                            "y": 257
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 236
+                          },
+                          {
+                            "x": 18,
+                            "y": 195.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "StaticCapricorn_R",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Guter-Steinbock-R.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88.5,
+                            "y": 283.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 237
+                          },
+                          {
+                            "x": 69.5,
+                            "y": 194.5
+                          },
+                          {
+                            "x": 113.5,
+                            "y": 152
+                          },
+                          {
+                            "x": 159.5,
+                            "y": 146.5
+                          },
+                          {
+                            "x": 156.5,
+                            "y": 133
+                          },
+                          {
+                            "x": 127.5,
+                            "y": 106.5
+                          },
+                          {
+                            "x": 153,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 158,
+                            "y": 62
+                          },
+                          {
+                            "x": 139.5,
+                            "y": 36.5
+                          },
+                          {
+                            "x": 138,
+                            "y": 0
+                          },
+                          {
+                            "x": 163.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 188,
+                            "y": 37.5
+                          },
+                          {
+                            "x": 201,
+                            "y": 72.5
+                          },
+                          {
+                            "x": 239.5,
+                            "y": 73
+                          },
+                          {
+                            "x": 218.5,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 218,
+                            "y": 0
+                          },
+                          {
+                            "x": 238.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 286,
+                            "y": 74.5
+                          },
+                          {
+                            "x": 320,
+                            "y": 105.5
+                          },
+                          {
+                            "x": 298.5,
+                            "y": 129
+                          },
+                          {
+                            "x": 297.5,
+                            "y": 187.5
+                          },
+                          {
+                            "x": 289.5,
+                            "y": 222
+                          },
+                          {
+                            "x": 259,
+                            "y": 245
+                          },
+                          {
+                            "x": 248.5,
+                            "y": 277.5
+                          },
+                          {
+                            "x": 214,
+                            "y": 279.5
+                          },
+                          {
+                            "x": 209,
+                            "y": 320
+                          },
+                          {
+                            "x": 180,
+                            "y": 320
+                          },
+                          {
+                            "x": 175,
+                            "y": 291.5
+                          },
+                          {
+                            "x": 158,
+                            "y": 280.5
+                          },
+                          {
+                            "x": 134.5,
+                            "y": 293
+                          },
+                          {
+                            "x": 132.5,
+                            "y": 320
+                          },
+                          {
+                            "x": 89.5,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "wodden_panel",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Bretter hell.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 320,
+                            "y": 0
+                          },
+                          {
+                            "x": 320,
+                            "y": 70
+                          },
+                          {
+                            "x": 0,
+                            "y": 70
                           }
                         ]
                       ]
@@ -47195,10 +47890,10 @@
             "objectName": "SnowyGranite"
           },
           {
-            "objectName": "SnowyGranite_moving_horizontal"
+            "objectName": "WoddenPanel_moving_horizontal"
           },
           {
-            "objectName": "SnowyGranite_moving_vertical"
+            "objectName": "WoddenPanel_moving_vertical"
           },
           {
             "objectName": "SnowyGranite_5x1"
@@ -47238,6 +47933,15 @@
           },
           {
             "objectName": "OrangeBubbleButton"
+          },
+          {
+            "objectName": "StaticCapricorn_L"
+          },
+          {
+            "objectName": "StaticCapricorn_R"
+          },
+          {
+            "objectName": "wodden_panel"
           }
         ]
       },
@@ -48766,8 +49470,87 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Capricorn",
+                "player",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "heartCounterBefore",
+                "=",
+                "heartCounter"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "heartCounter",
+                "-",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "staticEnemies",
+                "player",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "heartCounterBefore",
+                "=",
+                "heartCounter"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "heartCounter",
+                "-",
+                "1"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -49246,6 +50029,43 @@
               },
               "parameters": [
                 "throwableKeyboard",
+                "staticEnemies",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "throwableKeyboard",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "staticEnemies",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "throwableKeyboard",
                 "throwableCable",
                 "",
                 "",
@@ -49301,6 +50121,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -50583,7 +51408,7 @@
           "isLocked": true,
           "name": "Controls",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
